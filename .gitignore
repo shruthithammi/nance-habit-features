@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Streamlit local credentials & state
+.streamlit/
+
+# OS artifacts
+Thumbs.db
+.DS_Store

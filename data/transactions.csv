@@ -1,0 +1,1084 @@
+txn_id,user_id,txn_date,txn_time,amount,transaction_type,payment_mode,main_category,sub_category,merchant_name,person_name,source,arrived_at
+TXN-8AB113FDD595,user_001,2026-08-01,09:00:00,65000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-08-01 09:00:00
+TXN-43FE2F9FCB72,user_002,2026-08-01,09:00:00,55000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-08-01 09:00:00
+TXN-C219ADA10034,user_003,2026-08-01,09:00:00,48000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-08-01 09:00:00
+TXN-4EA654012FB8,user_005,2026-08-01,09:00:00,72000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-08-01 09:00:00
+TXN-AE9ADFBAA907,user_003,2026-08-01,09:00:10,734,debit,UPI,Shopping,Clothing,,,sms,2026-08-01 09:03:10
+TXN-5A98BBFB55ED,user_002,2026-08-01,09:41:23,222,debit,card,Entertainment,Gaming,,,card,2026-08-01 11:41:23
+TXN-0D369FC45133,user_003,2026-08-01,09:50:38,287,debit,card,Bills,Internet,,,sms,2026-08-01 10:07:38
+TXN-514ED0400A43,user_005,2026-08-01,09:55:23,1959,debit,card,Transportation,Metro,,,sms,2026-08-01 10:16:23
+TXN-38191729CEF2,user_003,2026-08-01,12:12:33,1486,debit,cash,Education,Books,,,cash,2026-08-01 12:12:33
+TXN-2674CBA8D702,user_002,2026-08-01,13:04:36,407,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-08-01 13:09:36
+TXN-1BA7FDD2E06F,user_001,2026-08-01,14:01:35,444,debit,card,Bills,Electricity,TSSPDCL,,card,2026-08-01 15:01:35
+TXN-2743077C32E0,user_005,2026-08-01,15:18:27,2629,debit,card,Shopping,Online Shopping,Amazon,,sms,2026-08-01 15:43:27
+TXN-140F01EFF3D6,user_005,2026-08-01,17:23:23,514,debit,netbanking,Groceries,Supermarket,More Supermarket,,email,2026-08-02 05:23:23
+TXN-667713941AE8,user_001,2026-08-01,18:57:34,551,debit,card,Food & Dining,Cafes,Starbucks,,card,2026-08-01 18:57:34
+TXN-9AA50057D6F2,user_005,2026-08-01,19:03:32,2864,debit,UPI,Entertainment,OTT Subscription,,,sms,2026-08-01 19:33:32
+TXN-1B43DF449728,user_002,2026-08-01,22:09:54,937,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-08-02 02:09:54
+TXN-9C14EA35CD9E,user_005,2026-08-02,09:07:41,2965,debit,UPI,Groceries,Online Grocery,Blinkit,,sms,2026-08-02 09:23:41
+TXN-DBD24BDCABF3,user_003,2026-08-02,10:26:32,1694,debit,auto-debit,Education,Books,,,bank,2026-08-02 10:26:32
+TXN-657EE90C8DF6,user_001,2026-08-02,11:09:13,1479,debit,cash,Entertainment,OTT Subscription,,,cash,2026-08-03 11:09:13
+TXN-8428556ECEEA,user_005,2026-08-02,11:17:32,2938,debit,UPI,Groceries,Online Grocery,Blinkit,,sms,2026-08-02 11:39:32
+TXN-AFBB7A55F257,user_002,2026-08-02,14:24:58,1102,debit,UPI,Food & Dining,Cafes,Starbucks,,bank,2026-08-02 18:24:58
+TXN-3E4058B7084F,user_005,2026-08-02,14:33:53,319,debit,card,Shopping,Online Shopping,Myntra,,sms,2026-08-02 14:37:53
+TXN-0FE7E3AC0DF1,user_001,2026-08-02,16:51:55,501,debit,cash,Shopping,Home Decor,,,cash,2026-08-02 16:51:55
+TXN-0110F44615DF,user_002,2026-08-02,18:31:12,2963,debit,card,Food & Dining,Cafes,Third Wave Coffee,,sms,2026-08-02 18:35:12
+TXN-BCF1BD428B0A,user_002,2026-08-02,18:45:04,426,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-08-02 19:03:04
+TXN-0596EEEEC7A0,user_005,2026-08-02,19:44:51,1911,debit,auto-debit,Shopping,Accessories,,,email,2026-08-03 00:44:51
+TXN-3BDAC671F537,user_003,2026-08-02,22:17:14,712,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-08-02 22:37:14
+TXN-DC67FA0D8BCB,user_002,2026-08-03,14:07:12,2995,debit,card,Groceries,Supermarket,Reliance Fresh,,sms,2026-08-03 14:33:12
+TXN-305E5DA1600B,user_002,2026-08-03,16:23:29,187,debit,cash,Food & Dining,Street Food,,,cash,2026-08-04 09:23:29
+TXN-687C96273E68,user_001,2026-08-03,19:34:07,517,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-08-03 22:34:07
+TXN-18C998761323,user_003,2026-08-03,19:48:21,1584,debit,auto-debit,Groceries,Vegetables & Fruits,,,email,2026-08-05 01:48:21
+TXN-2F87BA499D33,user_002,2026-08-03,19:52:36,566,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-08-03 19:55:36
+TXN-55FC14C84963,user_003,2026-08-03,20:52:50,519,debit,auto-debit,Shopping,Accessories,,,email,2026-08-05 09:52:50
+TXN-6B41459C5FC5,user_005,2026-08-03,21:18:04,388,debit,cash,Fitness & Wellness,Fitness & Wellness,,,cash,2026-08-04 00:18:04
+TXN-FF078724573C,user_001,2026-08-04,05:14:49,1316,debit,UPI,Groceries,Online Grocery,Zepto,,bank,2026-08-04 07:14:49
+TXN-F181A5423E08,user_003,2026-08-04,06:40:50,2014,debit,UPI,Personal Care,Salon,,,sms,2026-08-04 06:48:50
+TXN-E50E594BE9B3,user_002,2026-08-04,08:20:59,1217,debit,card,Bills,Electricity,MSEDCL,,sms,2026-08-04 08:43:59
+TXN-038CD1089112,user_005,2026-08-04,10:43:34,2092,debit,card,Food & Dining,Restaurants,Dominos,,card,2026-08-04 11:43:34
+TXN-D5E34E595E3E,user_003,2026-08-04,15:00:44,459,debit,card,Transportation,Auto / Cab,Uber,,sms,2026-08-04 15:27:44
+TXN-5FCBD45E0B88,user_002,2026-08-04,19:08:27,727,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-08-04 23:08:27
+TXN-301C0A3301F3,user_001,2026-08-05,08:24:17,596,debit,UPI,Groceries,Online Grocery,BigBasket,,bank,2026-08-05 13:24:17
+TXN-C337FAD525E0,user_001,2026-08-05,09:02:51,1452,debit,netbanking,Shopping,Clothing,,,bank,2026-08-05 11:02:51
+TXN-F54CEF432F84,user_002,2026-08-05,09:39:46,2138,debit,card,Entertainment,Movies,,,card,2026-08-05 13:39:46
+TXN-D275C1244AA6,user_001,2026-08-05,10:00:00,12000,debit,netbanking,Rent,Rent,,,bank,2026-08-05 10:30:00
+TXN-E78A19CA4BBA,user_002,2026-08-05,10:00:00,15000,debit,netbanking,Rent,Rent,,,bank,2026-08-05 10:30:00
+TXN-F3150D48A8EB,user_003,2026-08-05,10:00:00,10000,debit,netbanking,Rent,Rent,,,bank,2026-08-05 10:30:00
+TXN-9C12B0ABAD24,user_005,2026-08-05,10:00:00,14000,debit,netbanking,Rent,Rent,,,bank,2026-08-05 10:30:00
+TXN-DD449162E4D3,user_003,2026-08-05,14:22:13,1440,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-08-05 18:22:13
+TXN-F8F393562934,user_005,2026-08-05,14:42:44,2430,debit,netbanking,Transportation,Metro,,,sms,2026-08-05 14:59:44
+TXN-C8F96E72FD3B,user_001,2026-08-05,17:23:10,828,debit,netbanking,Personal Care,Salon,,,email,2026-08-06 17:23:10
+TXN-B0532C9E6F39,user_002,2026-08-05,17:35:17,2526,debit,netbanking,Bills,Mobile Recharge,Jio,,card,2026-08-05 18:35:17
+TXN-AB8DA3C89A80,user_005,2026-08-05,20:14:53,1254,debit,UPI,Shopping,Online Shopping,Flipkart,,bank,2026-08-06 00:14:53
+TXN-E9AB8D5C1DF9,user_005,2026-08-06,09:02:20,806,debit,card,Food & Dining,Cafes,Starbucks,,card,2026-08-06 13:02:20
+TXN-A69C1B9EC267,user_005,2026-08-06,09:16:14,2383,debit,card,Shopping,Accessories,,,sms,2026-08-06 09:32:14
+TXN-4D3B4B1786DC,user_005,2026-08-06,10:10:39,253,debit,card,Entertainment,Events,,,sms,2026-08-06 10:40:39
+TXN-0B4D5CCE6543,user_001,2026-08-06,12:58:41,485,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-08-07 02:58:41
+TXN-33FC0ED83BCC,user_002,2026-08-06,17:19:30,2119,debit,auto-debit,Entertainment,Movies,,,email,2026-08-07 09:19:30
+TXN-006418563C56,user_002,2026-08-06,17:49:36,432,debit,UPI,Bills,Electricity,TSSPDCL,,sms,2026-08-06 18:03:36
+TXN-819B57396070,user_003,2026-08-06,19:15:47,818,debit,cash,Hospitals & Pharmacy,Lab Tests,,,cash,2026-08-07 02:15:47
+TXN-48C825B60AAF,user_002,2026-08-07,08:23:32,1360,debit,netbanking,Food & Dining,Restaurants,Haldirams,,email,2026-08-08 20:23:32
+TXN-D0259FCB4A88,user_002,2026-08-07,08:26:30,1937,debit,UPI,Entertainment,Events,,,bank,2026-08-07 11:26:30
+TXN-271D147C95D2,user_002,2026-08-07,10:06:03,1990,debit,netbanking,Food & Dining,Restaurants,Barbeque Nation,,email,2026-08-08 05:06:03
+TXN-8DDBCA91048F,user_003,2026-08-07,14:48:58,2056,debit,auto-debit,Shopping,Accessories,,,email,2026-08-08 23:48:58
+TXN-F12E48F75FF6,user_005,2026-08-07,18:22:09,900,debit,auto-debit,Entertainment,OTT Subscription,,,bank,2026-08-07 20:22:09
+TXN-029260690FE7,user_003,2026-08-07,19:07:58,1062,debit,netbanking,Groceries,Supermarket,Reliance Fresh,,card,2026-08-07 19:07:58
+TXN-3FE588894D77,user_003,2026-08-07,19:34:02,2057,debit,auto-debit,Transportation,Bus Pass,,,bank,2026-08-08 01:34:02
+TXN-10D9CFB876E3,user_001,2026-08-07,21:25:23,1579,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-08-08 04:25:23
+TXN-36B51513DCCE,user_002,2026-08-07,21:46:20,3625,debit,card,Bills,Mobile Recharge,Jio,,sms,2026-08-07 21:53:20
+TXN-82DF969BCC70,user_002,2026-08-08,03:25:32,2122,debit,netbanking,Shopping,Home Decor,,,email,2026-08-09 09:25:32
+TXN-B2CAFEB21348,user_002,2026-08-08,05:18:31,799,debit,auto-debit,Subscriptions,News,,,email,2026-08-09 20:18:31
+TXN-2BA48FDA047C,user_002,2026-08-08,05:35:12,1578,debit,UPI,Entertainment,Gaming,,,sms,2026-08-08 05:47:12
+TXN-168549EE3C62,user_001,2026-08-08,08:10:50,236,debit,UPI,Food & Dining,Street Food,,,bank,2026-08-08 13:10:50
+TXN-72C011D01E04,user_001,2026-08-08,10:10:29,1624,debit,netbanking,Shopping,Accessories,,,bank,2026-08-08 10:10:29
+TXN-9B31A05BF8AC,user_005,2026-08-08,11:07:46,11260,debit,cash,Travel,Hotels,,,cash,2026-08-09 02:07:46
+TXN-CBE03FB03E5B,user_005,2026-08-08,17:18:30,77,debit,auto-debit,Sports,Sports,,,email,2026-08-09 12:18:30
+TXN-11E24DC9B4AA,user_002,2026-08-08,20:27:08,2834,debit,card,Groceries,Online Grocery,Swiggy Instamart,,card,2026-08-08 22:27:08
+TXN-0BCEFF61DA3C,user_003,2026-08-08,21:02:32,565,debit,card,Groceries,Online Grocery,BigBasket,,sms,2026-08-08 21:14:32
+TXN-0319EC9D65A7,user_005,2026-08-08,21:49:09,557,debit,cash,Travel,Train,IRCTC,,cash,2026-08-09 11:49:09
+TXN-AE402D59B9D1,user_001,2026-08-08,22:55:00,247,debit,card,Transportation,Auto / Cab,Uber,,sms,2026-08-08 23:17:00
+TXN-729330AC4B7B,user_002,2026-08-09,08:57:32,980,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-08-09 09:02:32
+TXN-F28967BCC358,user_005,2026-08-09,09:05:34,348,debit,UPI,Transportation,Auto / Cab,Rapido,,sms,2026-08-09 09:33:34
+TXN-6AD5CF13E65E,user_002,2026-08-09,09:32:25,632,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-08-09 13:32:25
+TXN-FE054C8498FA,user_005,2026-08-09,09:56:28,1885,debit,auto-debit,Entertainment,Events,,,bank,2026-08-09 14:56:28
+TXN-840B8DA1741C,user_005,2026-08-09,10:38:32,2156,debit,UPI,Shopping,Online Shopping,Meesho,,sms,2026-08-09 10:40:32
+TXN-CC88C0A1551C,user_005,2026-08-09,11:23:00,1688,debit,card,Sports,Sports,,,sms,2026-08-09 11:33:00
+TXN-999050A9795B,user_005,2026-08-09,13:05:20,465,debit,card,Food & Dining,Food Delivery,Swiggy,,card,2026-08-09 13:05:20
+TXN-1A9FE22D8E11,user_001,2026-08-09,17:31:01,3263,debit,card,Bills,Water,,,card,2026-08-09 17:31:01
+TXN-E5C8CCC4AF1F,user_003,2026-08-09,18:00:43,284,debit,card,Transportation,Auto / Cab,Ola,,sms,2026-08-09 18:07:43
+TXN-C41945DA7E7E,user_001,2026-08-09,20:05:05,540,debit,UPI,Education,Books,,,bank,2026-08-10 01:05:05
+TXN-FDAAC3EB9CEA,user_001,2026-08-09,20:19:53,1075,debit,card,Personal Care,Skincare,,,card,2026-08-10 00:19:53
+TXN-5E9A47E9301C,user_002,2026-08-09,20:39:43,3210,debit,cash,Food & Dining,Street Food,,,cash,2026-08-10 15:39:43
+TXN-0A0FF1F029BA,user_001,2026-08-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-08-10 06:15:00
+TXN-970E2BF2F641,user_001,2026-08-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-08-10 06:15:00
+TXN-B61BF6EC358E,user_002,2026-08-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-08-10 06:15:00
+TXN-F71CDD2388B2,user_002,2026-08-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-08-10 06:15:00
+TXN-049C11E9BDFC,user_002,2026-08-10,06:00:00,299,debit,auto-debit,Subscriptions,Streaming,Hotstar,,bank,2026-08-10 06:15:00
+TXN-53EE84FB7EE1,user_002,2026-08-10,06:00:00,179,debit,auto-debit,Subscriptions,Streaming,Amazon Prime,,bank,2026-08-10 06:15:00
+TXN-34F37328E158,user_003,2026-08-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-08-10 06:15:00
+TXN-CA357E344C89,user_005,2026-08-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-08-10 06:15:00
+TXN-CFE6A914B8F9,user_005,2026-08-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-08-10 06:15:00
+TXN-C863FE6F29F5,user_005,2026-08-10,06:00:00,149,debit,auto-debit,Subscriptions,Streaming,YouTube Premium,,bank,2026-08-10 06:15:00
+TXN-CD526A4FA737,user_005,2026-08-10,06:37:48,156,debit,card,Transportation,Auto / Cab,Uber,,sms,2026-08-10 06:50:48
+TXN-D043DCF4C872,user_003,2026-08-10,09:30:39,1103,debit,auto-debit,Food & Dining,Cafes,Starbucks,,email,2026-08-11 07:30:39
+TXN-D5D5F5104E64,user_001,2026-08-10,10:55:38,312,debit,auto-debit,Food & Dining,Restaurants,Local Restaurant,,bank,2026-08-10 13:55:38
+TXN-293BC9C2D42D,user_002,2026-08-10,11:07:26,2025,debit,UPI,Shopping,Accessories,,,sms,2026-08-10 11:26:26
+TXN-D6D0A5EC63E1,user_005,2026-08-10,12:35:29,2676,debit,cash,Food & Dining,Street Food,,,cash,2026-08-11 10:35:29
+TXN-D699E1F0CE73,user_001,2026-08-10,12:42:41,1596,debit,card,Hospitals & Pharmacy,Lab Tests,,,sms,2026-08-10 12:54:41
+TXN-A18AC6321BD2,user_002,2026-08-10,17:32:53,1689,debit,auto-debit,Entertainment,OTT Subscription,,,email,2026-08-12 02:32:53
+TXN-7CE00D6F01CE,user_005,2026-08-10,19:26:08,199,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-08-12 09:26:08
+TXN-DD9494D99B0C,user_001,2026-08-11,02:35:14,176,debit,UPI,Transportation,Auto / Cab,Ola,,sms,2026-08-11 02:54:14
+TXN-5404D0AA1954,user_002,2026-08-11,08:43:15,2470,debit,UPI,Shopping,Online Shopping,Meesho,,sms,2026-08-11 08:45:15
+TXN-B1F9F54F4C75,user_005,2026-08-11,09:50:00,499,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-08-11 19:50:00
+TXN-FA5BF1B26AA1,user_005,2026-08-11,10:31:02,821,debit,cash,Sports,Sports,,,cash,2026-08-11 19:31:02
+TXN-66D380645043,user_003,2026-08-11,20:17:28,1756,debit,netbanking,Shopping,Clothing,,,sms,2026-08-11 20:23:28
+TXN-A08B807BB0AA,user_002,2026-08-11,22:50:49,2657,debit,card,Groceries,Online Grocery,BigBasket,,sms,2026-08-11 23:09:49
+TXN-40DD6969FF9A,user_001,2026-08-12,06:15:17,384,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-08-12 06:37:17
+TXN-E72094FA45C1,user_005,2026-08-12,09:58:44,568,debit,netbanking,Travel,Bus,,,email,2026-08-14 03:58:44
+TXN-A8A02AEA6A99,user_002,2026-08-12,10:09:26,157,debit,cash,Entertainment,OTT Subscription,,,cash,2026-08-13 08:09:26
+TXN-3C49788C0500,user_003,2026-08-12,12:08:57,652,debit,UPI,Groceries,Supermarket,More Supermarket,,bank,2026-08-12 18:08:57
+TXN-A7725EE2E45B,user_002,2026-08-12,15:35:20,3093,debit,UPI,Food & Dining,Street Food,,,bank,2026-08-12 20:35:20
+TXN-244F3DD8734B,user_003,2026-08-12,19:35:27,976,debit,UPI,Education,Exam Fees,,,sms,2026-08-12 20:03:27
+TXN-194078C3B0A6,user_002,2026-08-12,21:21:34,1365,debit,card,Shopping,Home Decor,,,sms,2026-08-12 21:33:34
+TXN-90662821B6AC,user_001,2026-08-13,09:30:51,1965,debit,auto-debit,Transportation,Bus Pass,,,email,2026-08-14 12:30:51
+TXN-8E1A0AD6268C,user_002,2026-08-13,10:22:35,3238,debit,card,Food & Dining,Cafes,Third Wave Coffee,,sms,2026-08-13 10:52:35
+TXN-188BA4E7787C,user_002,2026-08-13,10:45:05,299,debit,auto-debit,Subscriptions,News,,,bank,2026-08-13 12:45:05
+TXN-7D987BC73F75,user_001,2026-08-13,13:46:03,591,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-08-13 14:08:03
+TXN-71F06A33D88E,user_003,2026-08-13,16:36:03,2033,debit,netbanking,Shopping,Accessories,,,sms,2026-08-13 16:49:03
+TXN-847B176B7A87,user_005,2026-08-13,16:36:27,2079,debit,auto-debit,Food & Dining,Cafes,Starbucks,,email,2026-08-14 09:36:27
+TXN-1F87DCBD694E,user_003,2026-08-13,20:06:28,285,debit,netbanking,Food & Dining,Restaurants,Dominos,,email,2026-08-15 20:06:28
+TXN-D1C2A66D45D1,user_002,2026-08-13,21:25:52,2557,debit,UPI,Bills,Gas,,,sms,2026-08-13 21:37:52
+TXN-F684A2524C77,user_002,2026-08-13,22:17:35,2714,debit,card,Groceries,Online Grocery,Zepto,,card,2026-08-14 00:17:35
+TXN-A44A38C6A5F0,user_001,2026-08-14,10:12:34,3498,debit,netbanking,Bills,Electricity,MSEDCL,,bank,2026-08-14 13:12:34
+TXN-166FFDAF5E29,user_005,2026-08-14,10:26:40,1523,debit,card,Fitness & Wellness,Fitness & Wellness,,,card,2026-08-14 12:26:40
+TXN-BC04ADDF4C25,user_002,2026-08-14,11:41:03,2035,debit,card,Entertainment,Gaming,,,sms,2026-08-14 12:11:03
+TXN-94B230381A36,user_003,2026-08-14,12:22:55,2323,debit,card,Groceries,Online Grocery,Zepto,,card,2026-08-14 16:22:55
+TXN-D6C7818A5DB0,user_001,2026-08-14,13:55:54,620,debit,card,Food & Dining,Restaurants,Local Restaurant,,card,2026-08-14 17:55:54
+TXN-0D06100ED1EF,user_005,2026-08-14,16:09:20,1588,debit,card,Shopping,Online Shopping,Amazon,,card,2026-08-14 19:09:20
+TXN-B871BE826340,user_002,2026-08-14,17:03:06,1073,debit,auto-debit,Food & Dining,Restaurants,Barbeque Nation,,bank,2026-08-14 20:03:06
+TXN-DACB68735C30,user_002,2026-08-14,21:11:26,2431,debit,card,Transportation,Bus Pass,,,card,2026-08-14 22:11:26
+TXN-A7AEA9AA7B59,user_002,2026-08-14,21:44:17,956,debit,card,Entertainment,Gaming,,,sms,2026-08-14 21:49:17
+TXN-D9966CE235CD,user_002,2026-08-14,22:59:10,491,debit,UPI,Food & Dining,Street Food,,,bank,2026-08-15 01:59:10
+TXN-41A8898E9E54,user_002,2026-08-15,09:47:55,3307,debit,cash,Food & Dining,Street Food,,,cash,2026-08-15 18:47:55
+TXN-3E912F8F67D3,user_002,2026-08-15,10:51:07,629,debit,auto-debit,Electronics,Electronics,,,email,2026-08-16 08:51:07
+TXN-942217AFDDA0,user_001,2026-08-15,11:00:00,8000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-08-15 11:15:00
+TXN-872CF62252A2,user_002,2026-08-15,11:00:00,18000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-08-15 11:15:00
+TXN-BC8972F2E2F0,user_005,2026-08-15,11:00:00,12000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-08-15 11:15:00
+TXN-941611A121FE,user_001,2026-08-15,14:13:55,241,debit,UPI,Shopping,Online Shopping,Flipkart,,sms,2026-08-15 14:26:55
+TXN-69A2CA9C244C,user_002,2026-08-15,17:40:57,2842,debit,card,Transportation,Bus Pass,,,card,2026-08-15 20:40:57
+TXN-D14297D6984E,user_002,2026-08-15,18:00:47,2735,debit,cash,Food & Dining,Street Food,,,cash,2026-08-16 04:00:47
+TXN-440634E339AD,user_003,2026-08-15,18:31:49,1629,debit,netbanking,Bills,Mobile Recharge,Airtel,,sms,2026-08-15 18:55:49
+TXN-1D2C1B6291DC,user_005,2026-08-15,18:44:23,2865,debit,netbanking,Shopping,Accessories,,,sms,2026-08-15 18:48:23
+TXN-35B1FE4E6E96,user_005,2026-08-15,19:38:48,2164,debit,card,Entertainment,Movies,,,card,2026-08-15 20:38:48
+TXN-CBD2539795CE,user_002,2026-08-15,21:21:18,1302,debit,auto-debit,Groceries,Supermarket,Reliance Fresh,,bank,2026-08-16 00:21:18
+TXN-BAF520F164D9,user_001,2026-08-16,09:03:37,367,debit,card,Shopping,Home Decor,,,sms,2026-08-16 09:27:37
+TXN-741B750FC627,user_002,2026-08-16,10:25:43,334,debit,UPI,Entertainment,OTT Subscription,,,sms,2026-08-16 10:42:43
+TXN-3E81068EAEB1,user_005,2026-08-16,11:31:26,112,debit,card,Entertainment,OTT Subscription,,,sms,2026-08-16 11:42:26
+TXN-21F983E72B39,user_001,2026-08-16,12:46:50,549,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-08-16 13:04:50
+TXN-40412BCA04FF,user_005,2026-08-16,12:58:04,2239,debit,auto-debit,Transportation,Bus Pass,,,bank,2026-08-16 12:58:04
+TXN-03D96373A6D5,user_005,2026-08-16,14:53:12,479,debit,card,Sports,Sports,,,card,2026-08-16 18:53:12
+TXN-89F08D4D4E47,user_002,2026-08-16,14:59:15,1721,debit,UPI,Shopping,Online Shopping,Amazon,,bank,2026-08-16 14:59:15
+TXN-8D15EAEF21ED,user_001,2026-08-16,16:32:58,692,debit,UPI,Transportation,Bus Pass,,,bank,2026-08-16 22:32:58
+TXN-0482927D02CE,user_002,2026-08-16,16:36:00,1909,debit,netbanking,Food & Dining,Restaurants,Haldirams,,sms,2026-08-16 16:45:00
+TXN-2D4BE27FE1E9,user_002,2026-08-16,17:14:08,1161,debit,netbanking,Bills,Gas,,,sms,2026-08-16 17:30:08
+TXN-C89C2BC3A51B,user_003,2026-08-16,17:59:21,1939,debit,card,Food & Dining,Cafes,Chai Point,,card,2026-08-16 20:59:21
+TXN-D15C9142CF3E,user_005,2026-08-16,18:08:52,499,debit,auto-debit,Subscriptions,Streaming,Amazon Prime,,email,2026-08-17 23:08:52
+TXN-36ABD45127CC,user_005,2026-08-17,08:08:05,2878,debit,card,Fitness & Wellness,Fitness & Wellness,,,sms,2026-08-17 08:22:05
+TXN-B20356709FED,user_003,2026-08-17,10:41:18,848,debit,netbanking,Bills,Electricity,TSSPDCL,,card,2026-08-17 12:41:18
+TXN-3588C9DCCF30,user_001,2026-08-17,12:56:36,340,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-08-17 13:56:36
+TXN-B0CCAAC66779,user_002,2026-08-17,15:33:45,3171,debit,auto-debit,Transportation,Bus Pass,,,bank,2026-08-17 17:33:45
+TXN-22BC670B3648,user_005,2026-08-17,19:02:12,378,debit,cash,Groceries,Supermarket,DMart,,cash,2026-08-17 22:02:12
+TXN-B0AF27AEF0B5,user_005,2026-08-17,19:07:14,765,debit,netbanking,Transportation,Metro,,,bank,2026-08-17 20:07:14
+TXN-DEAEEE754A59,user_003,2026-08-17,19:23:47,2422,debit,cash,Bills,Internet,,,cash,2026-08-18 13:23:47
+TXN-0BB5FECC9378,user_002,2026-08-17,19:51:42,1783,debit,auto-debit,Entertainment,Events,,,email,2026-08-18 09:51:42
+TXN-CB06A5795C76,user_001,2026-08-17,21:13:42,871,debit,auto-debit,Bills,Electricity,BESCOM,,email,2026-08-19 19:13:42
+TXN-A254FA2F73F3,user_003,2026-08-18,07:59:56,157,debit,card,Transportation,Auto / Cab,Ola,,card,2026-08-18 10:59:56
+TXN-F5DBEDA36775,user_001,2026-08-18,10:48:59,1425,debit,netbanking,Groceries,Supermarket,Reliance Fresh,,email,2026-08-18 15:48:59
+TXN-1DE53F93A53B,user_002,2026-08-18,11:33:28,3474,debit,UPI,Shopping,Online Shopping,Flipkart,,bank,2026-08-18 11:33:28
+TXN-8303D30B972D,user_003,2026-08-18,19:42:16,793,debit,UPI,Shopping,Clothing,,,bank,2026-08-19 00:42:16
+TXN-C8F25D8ABC78,user_005,2026-08-19,06:42:00,547,debit,netbanking,Transportation,Metro,,,bank,2026-08-19 12:42:00
+TXN-D22034E43C0C,user_002,2026-08-19,10:00:47,723,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-08-19 10:07:47
+TXN-1026D18A36A4,user_003,2026-08-19,10:09:05,2186,debit,UPI,Food & Dining,Street Food,,,bank,2026-08-19 15:09:05
+TXN-940D18B1C653,user_002,2026-08-19,11:57:24,817,debit,UPI,Food & Dining,Street Food,,,sms,2026-08-19 12:12:24
+TXN-18AFBAC87B32,user_005,2026-08-19,18:01:05,766,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-08-19 19:01:05
+TXN-14875BB39696,user_003,2026-08-19,19:28:40,1307,debit,card,Hospitals & Pharmacy,Medicines,,,card,2026-08-19 20:28:40
+TXN-BD5D7AAD1680,user_002,2026-08-19,19:29:08,452,debit,auto-debit,Entertainment,Gaming,,,email,2026-08-21 04:29:08
+TXN-DA448AD69129,user_002,2026-08-19,21:04:59,1815,debit,UPI,Shopping,Online Shopping,Myntra,,bank,2026-08-20 00:04:59
+TXN-44A7F1A52C5B,user_001,2026-08-20,08:22:56,800,debit,card,Bills,Electricity,MSEDCL,,sms,2026-08-20 08:25:56
+TXN-7C23EEDC846B,user_005,2026-08-20,09:48:34,199,debit,auto-debit,Subscriptions,News,,,email,2026-08-20 10:48:34
+TXN-D1AEE21469F2,user_005,2026-08-20,11:37:11,5506,debit,cash,Travel,Flights,SpiceJet,,cash,2026-08-21 01:37:11
+TXN-7D815C581D60,user_005,2026-08-20,14:04:06,1502,debit,card,Sports,Sports,,,card,2026-08-20 18:04:06
+TXN-17F5CDAE6133,user_002,2026-08-20,17:59:56,3049,debit,UPI,Food & Dining,Restaurants,Barbeque Nation,,sms,2026-08-20 18:28:56
+TXN-9FE090AF4995,user_002,2026-08-20,18:22:07,857,debit,auto-debit,Bills,Internet,,,bank,2026-08-20 19:22:07
+TXN-2E3D6870CE13,user_002,2026-08-20,20:15:29,2258,debit,cash,Shopping,Home Decor,,,cash,2026-08-21 07:15:29
+TXN-FFF13EEF0883,user_003,2026-08-20,20:29:55,183,debit,netbanking,Entertainment,Movies,,,sms,2026-08-20 20:47:55
+TXN-78BC7E7C804D,user_001,2026-08-20,20:45:19,633,debit,card,Personal Care,Skincare,,,sms,2026-08-20 21:05:19
+TXN-EF6F6060E3AF,user_002,2026-08-20,20:48:01,2246,debit,card,Electronics,Electronics,,,card,2026-08-20 22:48:01
+TXN-E25A3573366A,user_003,2026-08-21,01:33:52,1104,debit,card,Groceries,Vegetables & Fruits,,,sms,2026-08-21 01:58:52
+TXN-D73CE2847E28,user_001,2026-08-21,07:27:53,1085,debit,netbanking,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-08-21 09:27:53
+TXN-0971DDE31BE7,user_001,2026-08-21,10:13:45,1183,debit,card,Personal Care,Grooming,,,sms,2026-08-21 10:24:45
+TXN-433947DBEFFF,user_005,2026-08-21,12:48:20,1614,debit,card,Food & Dining,Cafes,Third Wave Coffee,,card,2026-08-21 12:48:20
+TXN-78E1E8705C70,user_003,2026-08-21,15:51:05,1462,debit,cash,Shopping,Accessories,,,cash,2026-08-22 05:51:05
+TXN-F6BD52F75437,user_005,2026-08-21,16:02:05,2090,debit,netbanking,Shopping,Clothing,,,sms,2026-08-21 16:13:05
+TXN-1757908F8923,user_003,2026-08-21,17:40:56,2248,debit,card,Shopping,Clothing,,,sms,2026-08-21 17:59:56
+TXN-03018A339E4D,user_002,2026-08-21,19:25:28,284,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-08-21 20:25:28
+TXN-6E2AD6655842,user_001,2026-08-21,21:08:16,799,debit,auto-debit,Subscriptions,Streaming,Amazon Prime,,bank,2026-08-21 21:08:16
+TXN-B823BF09A591,user_002,2026-08-22,05:22:41,855,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-08-22 05:44:41
+TXN-3E23CD902BBF,user_005,2026-08-22,09:26:18,2519,debit,netbanking,Entertainment,Gaming,,,email,2026-08-23 13:26:18
+TXN-65CA40EC4BE9,user_005,2026-08-22,11:38:54,325,debit,netbanking,Sports,Sports,,,card,2026-08-22 14:38:54
+TXN-B034772D7D9A,user_005,2026-08-22,12:37:06,548,debit,card,Entertainment,Movies,,,sms,2026-08-22 13:01:06
+TXN-5074314CC03A,user_003,2026-08-22,16:12:26,2485,debit,card,Entertainment,Events,,,card,2026-08-22 20:12:26
+TXN-A832F0AB7D5E,user_003,2026-08-22,20:14:16,708,debit,cash,Shopping,Clothing,,,cash,2026-08-22 22:14:16
+TXN-B82FD88C29E7,user_002,2026-08-22,20:46:36,121,debit,card,Transportation,Auto / Cab,Rapido,,card,2026-08-22 22:46:36
+TXN-9419301B001E,user_003,2026-08-22,21:30:19,2231,debit,UPI,Groceries,Vegetables & Fruits,,,sms,2026-08-22 21:31:19
+TXN-FA19EBFBA21B,user_005,2026-08-22,23:31:43,637,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-08-22 23:31:43
+TXN-3D10292ABA33,user_002,2026-08-22,23:33:14,1050,debit,netbanking,Shopping,Accessories,,,card,2026-08-23 02:33:14
+TXN-23306E5EEDBD,user_005,2026-08-23,08:29:06,2044,debit,auto-debit,Entertainment,Gaming,,,email,2026-08-23 16:29:06
+TXN-A9B377A02357,user_003,2026-08-23,09:04:11,1153,debit,card,Groceries,Online Grocery,Zepto,,sms,2026-08-23 09:09:11
+TXN-F5118354F7FC,user_002,2026-08-23,09:41:05,1670,debit,card,Shopping,Clothing,,,sms,2026-08-23 10:11:05
+TXN-41105B2BA179,user_002,2026-08-23,11:48:34,1752,debit,card,Shopping,Home Decor,,,sms,2026-08-23 12:04:34
+TXN-CD396987E4D0,user_001,2026-08-23,16:27:35,380,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-08-23 16:27:35
+TXN-5B1ABBD57039,user_005,2026-08-23,19:51:41,299,debit,auto-debit,Subscriptions,Music,,,email,2026-08-24 21:51:41
+TXN-BDD41E2A64EB,user_002,2026-08-23,21:35:26,1311,debit,cash,Food & Dining,Restaurants,Dominos,,cash,2026-08-24 10:35:26
+TXN-E075A9C5CAD3,user_003,2026-08-24,09:01:09,3909,debit,auto-debit,Bills,Mobile Recharge,Airtel,,email,2026-08-24 13:01:09
+TXN-E15E25BD26A0,user_002,2026-08-24,18:38:02,291,debit,cash,Food & Dining,Restaurants,Haldirams,,cash,2026-08-24 20:38:02
+TXN-69D457F766BD,user_005,2026-08-24,20:31:43,181,debit,UPI,Shopping,Clothing,,,bank,2026-08-24 20:31:43
+TXN-6562213EA8B1,user_001,2026-08-24,20:37:35,1901,debit,card,Education,Exam Fees,,,card,2026-08-24 21:37:35
+TXN-9C3A066C1913,user_002,2026-08-24,21:35:20,1186,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-08-24 22:00:20
+TXN-1F9130BA1462,user_002,2026-08-24,22:00:13,2043,debit,netbanking,Food & Dining,Restaurants,Dominos,,sms,2026-08-24 22:30:13
+TXN-81B144227A4B,user_003,2026-08-25,06:30:11,269,debit,cash,Groceries,Supermarket,More Supermarket,,cash,2026-08-25 12:30:11
+TXN-3C71CEA53236,user_005,2026-08-25,10:31:31,499,debit,auto-debit,Subscriptions,Music,,,bank,2026-08-25 14:31:31
+TXN-9B278C328755,user_002,2026-08-25,11:26:02,2003,debit,netbanking,Transportation,Bus Pass,,,card,2026-08-25 15:26:02
+TXN-57A8BBD556E0,user_002,2026-08-25,15:31:29,1343,debit,netbanking,Shopping,Accessories,,,sms,2026-08-25 15:35:29
+TXN-CA914B9A1306,user_005,2026-08-25,17:48:04,685,debit,netbanking,Entertainment,Events,,,cash,2026-08-26 14:48:04
+TXN-F2C0726E2C43,user_001,2026-08-25,18:42:06,1891,debit,netbanking,Food & Dining,Cafes,Starbucks,,card,2026-08-25 20:42:06
+TXN-3839DC7E055F,user_003,2026-08-25,19:14:05,438,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-08-25 19:19:05
+TXN-1ACD36B0ACB4,user_005,2026-08-25,22:02:27,2274,debit,auto-debit,Entertainment,Events,,,bank,2026-08-25 22:02:27
+TXN-ABB4977785E3,user_003,2026-08-25,23:29:44,1440,debit,netbanking,Food & Dining,Restaurants,Local Restaurant,,email,2026-08-26 02:29:44
+TXN-A2AC57282109,user_005,2026-08-26,04:11:35,1872,debit,cash,Entertainment,Gaming,,,cash,2026-08-27 01:11:35
+TXN-E06536EAE5FE,user_002,2026-08-26,09:56:34,773,debit,card,Shopping,Accessories,,,sms,2026-08-26 10:17:34
+TXN-F1B42B5ECE6A,user_002,2026-08-26,10:12:21,1148,debit,auto-debit,Entertainment,Movies,,,email,2026-08-27 01:12:21
+TXN-132B99EADE91,user_003,2026-08-26,12:28:15,91,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-08-26 17:28:15
+TXN-D7E25C6ED054,user_002,2026-08-26,12:53:40,149,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-08-26 13:53:40
+TXN-B1C9E4F39941,user_003,2026-08-26,13:43:19,1927,debit,UPI,Education,Courses,,,bank,2026-08-26 15:43:19
+TXN-0F144C988357,user_003,2026-08-26,17:12:23,712,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-08-26 17:41:23
+TXN-CAD22B456EAA,user_001,2026-08-26,19:55:47,417,debit,netbanking,Personal Care,Salon,,,email,2026-08-27 11:55:47
+TXN-AD394222540C,user_001,2026-08-26,20:51:51,1321,debit,card,Personal Care,Skincare,,,card,2026-08-26 21:51:51
+TXN-4859BDD6D843,user_002,2026-08-26,22:41:47,2125,debit,netbanking,Food & Dining,Restaurants,Haldirams,,email,2026-08-28 06:41:47
+TXN-31A4D82CFF3D,user_005,2026-08-27,08:45:24,2073,debit,cash,Entertainment,OTT Subscription,,,cash,2026-08-27 23:45:24
+TXN-7A5000FD4D78,user_001,2026-08-27,09:52:58,833,debit,UPI,Entertainment,Movies,,,sms,2026-08-27 10:07:58
+TXN-6CC2A5349A93,user_005,2026-08-27,14:54:10,799,debit,auto-debit,Subscriptions,Music,,,email,2026-08-28 23:54:10
+TXN-76FCB23267A6,user_005,2026-08-27,17:22:49,2086,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-08-28 02:22:49
+TXN-E4BEA2AF8D53,user_002,2026-08-27,17:42:59,2151,debit,netbanking,Food & Dining,Restaurants,Local Restaurant,,bank,2026-08-27 21:42:59
+TXN-E8E6314A5ED5,user_002,2026-08-28,01:33:46,107,debit,auto-debit,Entertainment,Movies,,,email,2026-08-28 19:33:46
+TXN-5D3BF9305D78,user_003,2026-08-28,08:17:37,1818,debit,netbanking,Education,Courses,,,bank,2026-08-28 08:17:37
+TXN-D9FAFAA57DE9,user_002,2026-08-28,10:52:54,1960,debit,UPI,Food & Dining,Street Food,,,bank,2026-08-28 10:52:54
+TXN-582442CEB3C8,user_002,2026-08-28,12:35:30,462,debit,cash,Entertainment,Movies,,,cash,2026-08-28 13:35:30
+TXN-8D7CD29EACC9,user_003,2026-08-28,18:09:23,76,debit,auto-debit,Groceries,Supermarket,DMart,,email,2026-08-29 00:09:23
+TXN-23AFF81434F2,user_001,2026-08-28,18:25:21,199,debit,auto-debit,Subscriptions,News,,,bank,2026-08-28 20:25:21
+TXN-3394320B9070,user_005,2026-08-28,19:40:21,281,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-08-28 22:40:21
+TXN-D7E5690FB8E4,user_002,2026-08-28,19:58:11,150,debit,auto-debit,Shopping,Accessories,,,email,2026-08-29 02:58:11
+TXN-4E4826C815FD,user_002,2026-08-28,20:17:50,1419,debit,card,Bills,Mobile Recharge,Jio,,sms,2026-08-28 20:30:50
+TXN-1B7F028FFDD1,user_005,2026-08-29,08:10:01,2878,debit,UPI,Entertainment,Movies,,,sms,2026-08-29 08:28:01
+TXN-66C7E267233E,user_002,2026-08-29,10:59:04,1021,debit,auto-debit,Groceries,Supermarket,DMart,,email,2026-08-31 06:59:04
+TXN-D2F0CC7B1CC5,user_001,2026-08-29,16:16:02,1846,debit,netbanking,Education,Courses,,,card,2026-08-29 16:16:02
+TXN-E8F962EA279E,user_002,2026-08-29,17:21:36,2127,debit,cash,Entertainment,Movies,,,cash,2026-08-29 20:21:36
+TXN-BB35AB455350,user_001,2026-08-29,17:32:07,2769,debit,cash,Bills,Gas,,,cash,2026-08-30 05:32:07
+TXN-6F73AC9B8CBA,user_003,2026-08-29,17:44:34,285,debit,UPI,Shopping,Accessories,,,sms,2026-08-29 18:10:34
+TXN-4A7468A2F395,user_005,2026-08-29,18:15:15,1747,debit,netbanking,Entertainment,Events,,,bank,2026-08-29 23:15:15
+TXN-B2EB597A13F3,user_001,2026-08-29,18:53:34,769,debit,auto-debit,Hospitals & Pharmacy,Medicines,,,email,2026-08-30 16:53:34
+TXN-32D43B4AD197,user_002,2026-08-29,21:20:01,4816,debit,UPI,Bills,Mobile Recharge,Vi,,bank,2026-08-29 22:20:01
+TXN-A7B9DAF843D0,user_005,2026-08-30,08:19:23,1436,debit,auto-debit,Food & Dining,Restaurants,Local Restaurant,,email,2026-08-31 12:19:23
+TXN-5251FE5B464F,user_002,2026-08-30,09:04:21,299,debit,UPI,Entertainment,Events,,,sms,2026-08-30 09:24:21
+TXN-D2E2F45EACC8,user_005,2026-08-30,10:44:30,2386,debit,auto-debit,Shopping,Home Decor,,,email,2026-09-01 00:44:30
+TXN-BD09D4ACD3F8,user_005,2026-08-30,11:06:51,1607,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-08-31 02:06:51
+TXN-1D5A3018357F,user_001,2026-08-30,11:44:18,2660,debit,netbanking,Bills,Electricity,MSEDCL,,email,2026-08-31 23:44:18
+TXN-4E3EDF8B2383,user_002,2026-08-30,12:47:08,2853,debit,cash,Food & Dining,Street Food,,,cash,2026-08-31 10:47:08
+TXN-54C9FCA6A2BD,user_001,2026-08-30,13:42:58,596,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-08-30 13:53:58
+TXN-FC52026A6CF3,user_001,2026-08-30,18:57:11,1411,debit,cash,Food & Dining,Street Food,,,cash,2026-08-31 13:57:11
+TXN-BC153DFC6904,user_003,2026-08-30,19:01:44,2327,debit,netbanking,Shopping,Accessories,,,email,2026-08-31 20:01:44
+TXN-B1FA388BB2C1,user_002,2026-08-30,21:19:10,3442,debit,cash,Transportation,Bus Pass,,,cash,2026-08-31 15:19:10
+TXN-21C7D2B6A632,user_002,2026-08-31,07:39:18,1848,debit,UPI,Food & Dining,Street Food,,,sms,2026-08-31 08:05:18
+TXN-1A6334D42108,user_002,2026-08-31,08:11:27,1901,debit,netbanking,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-08-31 11:11:27
+TXN-0084CF0C1476,user_003,2026-08-31,09:11:34,646,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-08-31 09:23:34
+TXN-E8CE0DE467F6,user_005,2026-08-31,10:19:36,480,debit,UPI,Transportation,Auto / Cab,Rapido,,sms,2026-08-31 10:32:36
+TXN-C8DB31EE7978,user_002,2026-08-31,17:50:28,299,debit,auto-debit,Subscriptions,Music,,,bank,2026-08-31 20:50:28
+TXN-AB368A761C72,user_002,2026-08-31,19:20:23,524,debit,card,Food & Dining,Food Delivery,Swiggy,,card,2026-08-31 19:20:23
+TXN-73DB9DDF1CAF,user_001,2026-08-31,19:38:41,205,debit,UPI,Transportation,Auto / Cab,Uber,,sms,2026-08-31 19:49:41
+TXN-B35B921A650A,user_001,2026-08-31,19:50:47,1433,debit,card,Transportation,Metro,,,sms,2026-08-31 19:56:47
+TXN-99CFE772503A,user_002,2026-09-01,08:10:27,1313,debit,cash,Food & Dining,Cafes,Third Wave Coffee,,cash,2026-09-01 16:10:27
+TXN-56E65D6C08D5,user_001,2026-09-01,09:00:00,65000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-09-01 09:00:00
+TXN-76D96C9BCEC0,user_002,2026-09-01,09:00:00,55000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-09-01 09:00:00
+TXN-F72CB8251007,user_003,2026-09-01,09:00:00,48000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-09-01 09:00:00
+TXN-910F4C8EB149,user_005,2026-09-01,09:00:00,72000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-09-01 09:00:00
+TXN-530425CA59C1,user_005,2026-09-01,10:32:29,1757,debit,cash,Shopping,Clothing,,,cash,2026-09-02 07:32:29
+TXN-F104382A997D,user_005,2026-09-01,10:36:51,417,debit,UPI,Transportation,Auto / Cab,Rapido,,sms,2026-09-01 10:53:51
+TXN-7E241D633576,user_001,2026-09-01,12:40:36,400,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-09-01 12:47:36
+TXN-43909A9FDC16,user_003,2026-09-01,13:52:16,322,debit,auto-debit,Shopping,Clothing,,,bank,2026-09-01 17:52:16
+TXN-40D4278FFC3A,user_005,2026-09-01,14:19:27,1482,debit,UPI,Shopping,Clothing,,,sms,2026-09-01 14:41:27
+TXN-2E687225ADBB,user_002,2026-09-01,16:10:43,1668,debit,UPI,Food & Dining,Street Food,,,bank,2026-09-01 19:10:43
+TXN-F01C36345A0F,user_002,2026-09-01,17:50:20,187,debit,card,Shopping,Online Shopping,Amazon,,card,2026-09-01 20:50:20
+TXN-764D318F590C,user_001,2026-09-01,18:14:51,1346,debit,UPI,Groceries,Online Grocery,Zepto,,bank,2026-09-01 19:14:51
+TXN-8AB26082096C,user_001,2026-09-02,05:15:58,410,debit,auto-debit,Entertainment,OTT Subscription,,,email,2026-09-02 13:15:58
+TXN-03889F8D6A5B,user_005,2026-09-02,11:09:15,2378,debit,UPI,Entertainment,Gaming,,,bank,2026-09-02 12:09:15
+TXN-97E59A270780,user_002,2026-09-02,11:52:52,590,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-09-02 12:20:52
+TXN-4C9BF299E721,user_002,2026-09-02,17:12:29,1559,debit,UPI,Shopping,Online Shopping,Myntra,,sms,2026-09-02 17:16:29
+TXN-851FDCBF160A,user_005,2026-09-02,18:52:47,792,debit,card,Food & Dining,Food Delivery,Swiggy,,card,2026-09-02 21:52:47
+TXN-8BE76824AE7A,user_003,2026-09-02,19:15:20,799,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-02 19:39:20
+TXN-85C0135902D4,user_002,2026-09-02,21:12:30,1310,debit,netbanking,Entertainment,OTT Subscription,,,cash,2026-09-03 07:12:30
+TXN-EB5AA58E3019,user_001,2026-09-02,21:55:49,549,debit,card,Groceries,Vegetables & Fruits,,,card,2026-09-02 21:55:49
+TXN-B7D519823440,user_005,2026-09-03,10:38:15,1153,debit,netbanking,Entertainment,Gaming,,,card,2026-09-03 13:38:15
+TXN-5909FF3F74C5,user_002,2026-09-03,16:34:11,1575,debit,UPI,Food & Dining,Street Food,,,bank,2026-09-03 21:34:11
+TXN-059DAD81CC90,user_001,2026-09-03,20:17:49,971,debit,netbanking,Shopping,Home Decor,,,card,2026-09-04 00:17:49
+TXN-F7A44EB69C23,user_001,2026-09-03,20:35:28,499,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-09-04 07:35:28
+TXN-DF843FDFCB14,user_005,2026-09-03,20:58:04,499,debit,auto-debit,Subscriptions,Music,,,email,2026-09-05 13:58:04
+TXN-64A3C8A66369,user_002,2026-09-03,22:50:15,1273,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-09-04 08:50:15
+TXN-D62B1D3E4C8E,user_003,2026-09-04,05:08:11,1359,debit,UPI,Groceries,Online Grocery,BigBasket,,bank,2026-09-04 11:08:11
+TXN-3AA15A087B6B,user_001,2026-09-04,06:26:21,523,debit,card,Food & Dining,Restaurants,Local Restaurant,,card,2026-09-04 10:26:21
+TXN-A15CE5E0C3ED,user_002,2026-09-04,06:38:30,3312,debit,cash,Entertainment,Gaming,,,cash,2026-09-05 00:38:30
+TXN-A7585AA43B89,user_002,2026-09-04,08:19:15,2836,debit,cash,Transportation,Metro,,,cash,2026-09-04 16:19:15
+TXN-A9967D71AE83,user_001,2026-09-04,09:21:20,208,debit,cash,Food & Dining,Street Food,,,cash,2026-09-05 02:21:20
+TXN-366AEC666318,user_005,2026-09-04,16:27:27,401,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-09-04 16:48:27
+TXN-678F835B0938,user_003,2026-09-04,16:53:24,647,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-09-04 21:53:24
+TXN-25F02CF3C680,user_002,2026-09-04,18:51:34,2306,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-04 19:11:34
+TXN-1C8CF0C8C275,user_003,2026-09-04,19:09:39,2186,debit,cash,Entertainment,OTT Subscription,,,cash,2026-09-05 04:09:39
+TXN-8BBF261AF2D4,user_002,2026-09-04,19:53:44,2981,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-04 19:56:44
+TXN-F9EE001FDFE5,user_002,2026-09-05,01:16:14,499,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-09-05 05:16:14
+TXN-E36101B3B143,user_005,2026-09-05,09:00:00,5000,debit,netbanking,Investments (Outflow),Investments (Outflow),Groww,,bank,2026-09-05 09:30:00
+TXN-3FD5F88F8E2A,user_001,2026-09-05,10:00:00,12000,debit,netbanking,Rent,Rent,,,bank,2026-09-05 10:30:00
+TXN-CD9311B1AAB6,user_002,2026-09-05,10:00:00,15000,debit,netbanking,Rent,Rent,,,bank,2026-09-05 10:30:00
+TXN-4462E078284B,user_003,2026-09-05,10:00:00,10000,debit,netbanking,Rent,Rent,,,bank,2026-09-05 10:30:00
+TXN-9DCF795855AA,user_005,2026-09-05,10:00:00,14000,debit,netbanking,Rent,Rent,,,bank,2026-09-05 10:30:00
+TXN-08D6B647EE60,user_005,2026-09-05,10:19:55,647,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-09-05 10:19:55
+TXN-5AC8081D1EC5,user_002,2026-09-05,13:43:37,1905,debit,netbanking,Entertainment,OTT Subscription,,,email,2026-09-07 10:43:37
+TXN-D6CD4B22CF0A,user_005,2026-09-05,14:05:15,2197,debit,auto-debit,Entertainment,Movies,,,email,2026-09-07 05:05:15
+TXN-45117505241E,user_001,2026-09-05,14:17:27,1152,debit,auto-debit,Groceries,Vegetables & Fruits,,,bank,2026-09-05 17:17:27
+TXN-79784D1B760C,user_001,2026-09-05,14:22:19,847,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-05 14:47:19
+TXN-8E89E9BF46A1,user_002,2026-09-05,16:41:43,2773,debit,card,Food & Dining,Restaurants,Haldirams,,card,2026-09-05 19:41:43
+TXN-A3D544890D03,user_003,2026-09-05,16:56:26,289,debit,UPI,Transportation,Auto / Cab,Rapido,,sms,2026-09-05 17:23:26
+TXN-15E095D70D33,user_003,2026-09-05,17:04:00,2296,debit,netbanking,Bills,Mobile Recharge,Jio,,card,2026-09-05 18:04:00
+TXN-CC2DCCD8CEDA,user_005,2026-09-05,19:17:42,618,debit,UPI,Entertainment,Events,,,sms,2026-09-05 19:35:42
+TXN-DB74519BD174,user_005,2026-09-05,19:47:15,1408,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-09-06 08:47:15
+TXN-434E7F5A1B81,user_005,2026-09-05,21:46:53,1548,debit,UPI,Sports,Sports,,,sms,2026-09-05 21:51:53
+TXN-2919FC21D401,user_002,2026-09-06,08:46:09,357,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-09-06 10:46:09
+TXN-E0E1861B2591,user_005,2026-09-06,10:37:03,1184,debit,cash,Food & Dining,Restaurants,Local Restaurant,,cash,2026-09-07 01:37:03
+TXN-78FD8D1BA084,user_002,2026-09-06,11:06:28,3292,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-06 11:30:28
+TXN-F3DA598B1865,user_002,2026-09-06,19:07:01,355,debit,netbanking,Entertainment,Events,,,bank,2026-09-07 01:07:01
+TXN-4C8BD2137D29,user_003,2026-09-06,19:53:19,1128,debit,auto-debit,Transportation,Bus Pass,,,bank,2026-09-06 19:53:19
+TXN-1BF20911A2D0,user_005,2026-09-06,20:42:51,1322,debit,UPI,Entertainment,Events,,,bank,2026-09-06 20:42:51
+TXN-1020A66AC045,user_005,2026-09-06,22:56:50,1356,debit,card,Shopping,Online Shopping,Meesho,,card,2026-09-06 23:56:50
+TXN-23561C14EC64,user_003,2026-09-07,09:33:42,454,debit,card,Education,Courses,,,sms,2026-09-07 09:41:42
+TXN-237EF8C60A92,user_002,2026-09-07,09:42:27,499,debit,auto-debit,Subscriptions,News,,,bank,2026-09-07 12:42:27
+TXN-720C3E162D0B,user_005,2026-09-07,10:44:23,299,debit,auto-debit,Subscriptions,News,,,email,2026-09-09 06:44:23
+TXN-32EC9949BD16,user_002,2026-09-07,16:21:35,3113,debit,auto-debit,Food & Dining,Restaurants,Dominos,,bank,2026-09-07 19:21:35
+TXN-FED716804D30,user_003,2026-09-07,19:35:25,1789,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-09-07 23:35:25
+TXN-7FEF3BD33562,user_003,2026-09-07,19:49:40,4774,debit,auto-debit,Bills,Water,,,email,2026-09-09 08:49:40
+TXN-FC04342140A4,user_001,2026-09-07,21:39:34,1533,debit,card,Shopping,Home Decor,,,sms,2026-09-07 21:40:34
+TXN-0AEA867113E1,user_005,2026-09-07,21:58:16,1872,debit,UPI,Food & Dining,Restaurants,Local Restaurant,,sms,2026-09-07 22:08:16
+TXN-E707B523EFF1,user_001,2026-09-08,02:34:03,566,debit,UPI,Groceries,Vegetables & Fruits,,,sms,2026-09-08 02:46:03
+TXN-486C3D65850F,user_001,2026-09-08,08:29:11,887,debit,cash,Bills,Electricity,MSEDCL,,cash,2026-09-08 09:29:11
+TXN-EA95B32AA703,user_001,2026-09-08,11:48:56,483,debit,cash,Groceries,Vegetables & Fruits,,,cash,2026-09-08 23:48:56
+TXN-F4D8C8F38FBA,user_002,2026-09-08,12:45:13,1921,debit,auto-debit,Entertainment,OTT Subscription,,,email,2026-09-09 02:45:13
+TXN-C1E8E9EA1EC7,user_003,2026-09-08,16:20:54,1483,debit,cash,Food & Dining,Street Food,,,cash,2026-09-09 03:20:54
+TXN-12E395E15569,user_005,2026-09-09,06:26:38,716,debit,netbanking,Groceries,Supermarket,Reliance Fresh,,cash,2026-09-10 05:26:38
+TXN-1F10C00C7883,user_002,2026-09-09,11:12:29,2444,debit,UPI,Entertainment,Movies,,,bank,2026-09-09 11:12:29
+TXN-51832A05DFCB,user_003,2026-09-09,11:35:59,2171,debit,auto-debit,Bills,Gas,,,bank,2026-09-09 16:35:59
+TXN-01C524A146D6,user_001,2026-09-09,17:15:08,181,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-09-09 20:15:08
+TXN-9595A67B049A,user_002,2026-09-09,17:39:25,2241,debit,cash,Food & Dining,Street Food,,,cash,2026-09-10 11:39:25
+TXN-2D30C609C066,user_005,2026-09-09,17:56:51,716,debit,cash,Entertainment,OTT Subscription,,,cash,2026-09-10 17:56:51
+TXN-664FA25A9ECC,user_005,2026-09-09,19:59:53,190,debit,card,Transportation,Auto / Cab,Ola,,sms,2026-09-09 20:10:53
+TXN-23C9D666718E,user_001,2026-09-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-09-10 06:15:00
+TXN-9BD20A04F8B2,user_001,2026-09-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-09-10 06:15:00
+TXN-38A869F7F22C,user_002,2026-09-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-09-10 06:15:00
+TXN-8E85C40A19CC,user_002,2026-09-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-09-10 06:15:00
+TXN-8EA8ADA35869,user_002,2026-09-10,06:00:00,299,debit,auto-debit,Subscriptions,Streaming,Hotstar,,bank,2026-09-10 06:15:00
+TXN-2570F152B157,user_002,2026-09-10,06:00:00,179,debit,auto-debit,Subscriptions,Streaming,Amazon Prime,,bank,2026-09-10 06:15:00
+TXN-5CEAD37F9AAB,user_003,2026-09-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-09-10 06:15:00
+TXN-351DDFBC479E,user_005,2026-09-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-09-10 06:15:00
+TXN-059B159B832A,user_005,2026-09-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-09-10 06:15:00
+TXN-CE3481135E93,user_005,2026-09-10,06:00:00,149,debit,auto-debit,Subscriptions,Streaming,YouTube Premium,,bank,2026-09-10 06:15:00
+TXN-A9FDBE244126,user_001,2026-09-10,08:38:47,4009,debit,netbanking,Bills,Water,,,sms,2026-09-10 09:01:47
+TXN-176E4DCC9A9E,user_005,2026-09-10,09:19:20,149,debit,auto-debit,Subscriptions,News,,,email,2026-09-11 22:19:20
+TXN-4C68EEDE969D,user_005,2026-09-10,17:11:40,2907,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-09-10 20:11:40
+TXN-D679F92D269A,user_002,2026-09-10,18:32:24,562,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-09-10 18:46:24
+TXN-FA89B5B79FB5,user_005,2026-09-10,19:20:28,1082,debit,auto-debit,Food & Dining,Restaurants,Dominos,,email,2026-09-12 02:20:28
+TXN-3802359B43E6,user_001,2026-09-10,21:36:43,687,debit,auto-debit,Food & Dining,Restaurants,Barbeque Nation,,bank,2026-09-11 00:36:43
+TXN-2E422B04A7E5,user_002,2026-09-10,21:37:05,2608,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-10 21:59:05
+TXN-09B1D80C334A,user_003,2026-09-10,22:38:01,1666,debit,UPI,Education,Books,,,bank,2026-09-11 02:38:01
+TXN-7228634A147F,user_005,2026-09-11,07:23:11,2875,debit,netbanking,Food & Dining,Restaurants,Haldirams,,card,2026-09-11 10:23:11
+TXN-CA4FBD13CE52,user_002,2026-09-11,09:24:35,1550,debit,card,Shopping,Online Shopping,Amazon,,card,2026-09-11 13:24:35
+TXN-9C82AD93E819,user_002,2026-09-11,10:11:20,4745,debit,card,Bills,Water,,,sms,2026-09-11 10:38:20
+TXN-A44E1868FA10,user_005,2026-09-11,17:09:05,263,debit,auto-debit,Groceries,Supermarket,More Supermarket,,email,2026-09-12 17:09:05
+TXN-CC07C1844951,user_002,2026-09-11,17:44:58,840,debit,cash,Shopping,Home Decor,,,cash,2026-09-12 13:44:58
+TXN-094A183A699F,user_003,2026-09-11,20:01:49,1270,debit,card,Personal Care,Salon,,,card,2026-09-11 22:01:49
+TXN-A8B71CEC1143,user_001,2026-09-11,20:38:51,1262,debit,UPI,Shopping,Online Shopping,Flipkart,,sms,2026-09-11 20:42:51
+TXN-32ACD19AC67E,user_005,2026-09-11,21:29:12,144,debit,UPI,Fitness & Wellness,Fitness & Wellness,,,bank,2026-09-11 23:29:12
+TXN-398CE5BF3E02,user_001,2026-09-12,07:23:40,1734,debit,cash,Groceries,Vegetables & Fruits,,,cash,2026-09-12 21:23:40
+TXN-58A39B6C2ADB,user_003,2026-09-12,07:25:36,994,debit,netbanking,Personal Care,Salon,,,sms,2026-09-12 07:55:36
+TXN-187D3F08A1BC,user_005,2026-09-12,09:50:09,2833,debit,card,Transportation,Metro,,,sms,2026-09-12 09:51:09
+TXN-1BCDDE12A250,user_003,2026-09-12,11:08:16,426,debit,UPI,Shopping,Clothing,,,sms,2026-09-12 11:20:16
+TXN-2276EF5D2476,user_005,2026-09-12,12:27:54,1150,debit,cash,Groceries,Supermarket,More Supermarket,,cash,2026-09-12 18:27:54
+TXN-D8C840E71F1C,user_002,2026-09-12,14:05:36,1782,debit,cash,Food & Dining,Street Food,,,cash,2026-09-12 14:05:36
+TXN-FC5C9F32069F,user_002,2026-09-12,15:10:49,199,debit,card,Transportation,Auto / Cab,Ola,,card,2026-09-12 18:10:49
+TXN-AAA6F3836325,user_002,2026-09-12,15:27:06,2300,debit,UPI,Transportation,Metro,,,sms,2026-09-12 15:51:06
+TXN-BB92C0BF06F2,user_002,2026-09-12,16:17:49,2331,debit,auto-debit,Shopping,Home Decor,,,bank,2026-09-12 20:17:49
+TXN-4F5B3DA02FDE,user_001,2026-09-12,18:04:32,3044,debit,cash,Bills,Electricity,MSEDCL,,cash,2026-09-13 14:04:32
+TXN-06C6CFD611B5,user_005,2026-09-12,20:31:07,417,debit,card,Transportation,Auto / Cab,Rapido,,sms,2026-09-12 20:39:07
+TXN-08E96DAED173,user_003,2026-09-12,20:44:44,1369,debit,card,Groceries,Supermarket,More Supermarket,,sms,2026-09-12 21:03:44
+TXN-2A067069F35E,user_003,2026-09-13,05:34:36,643,debit,netbanking,Bills,Internet,,,cash,2026-09-13 09:34:36
+TXN-CC248E662834,user_005,2026-09-13,06:59:15,359,debit,UPI,Shopping,Accessories,,,bank,2026-09-13 09:59:15
+TXN-F5E485382FBB,user_003,2026-09-13,07:03:58,193,debit,auto-debit,Food & Dining,Cafes,Chai Point,,email,2026-09-14 05:03:58
+TXN-352AB5B37F00,user_002,2026-09-13,10:55:52,212,debit,cash,Transportation,Metro,,,cash,2026-09-13 12:55:52
+TXN-A4B66D7AB2E3,user_002,2026-09-13,17:10:20,1516,debit,auto-debit,Transportation,Bus Pass,,,email,2026-09-15 15:10:20
+TXN-CC2EEF5DB956,user_002,2026-09-13,17:50:13,464,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-09-13 18:50:13
+TXN-A9CF0902F837,user_005,2026-09-13,18:29:05,1077,debit,netbanking,Entertainment,Gaming,,,cash,2026-09-13 18:29:05
+TXN-8DC31056C24A,user_005,2026-09-13,18:45:24,2898,debit,cash,Shopping,Accessories,,,cash,2026-09-14 16:45:24
+TXN-BFACD4065A24,user_001,2026-09-13,19:34:49,1118,debit,netbanking,Transportation,Bus Pass,,,cash,2026-09-14 10:34:49
+TXN-EDFB9139C8C4,user_003,2026-09-13,19:54:38,1746,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-09-13 19:54:38
+TXN-8894E92ABFFA,user_001,2026-09-13,20:53:59,1263,debit,netbanking,Transportation,Bus Pass,,,sms,2026-09-13 20:56:59
+TXN-C658C662F84E,user_002,2026-09-13,22:50:26,2187,debit,UPI,Food & Dining,Cafes,Chai Point,,bank,2026-09-13 22:50:26
+TXN-35AD2F50122C,user_005,2026-09-14,08:07:20,2969,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-09-14 09:07:20
+TXN-054CBC0C3CC5,user_005,2026-09-14,10:25:42,2087,debit,auto-debit,Travel,Flights,Air India,,email,2026-09-15 10:25:42
+TXN-8A1C29B09753,user_002,2026-09-14,11:04:40,2651,debit,cash,Shopping,Accessories,,,cash,2026-09-15 11:04:40
+TXN-B6F6E4242BB0,user_001,2026-09-14,11:31:54,1217,debit,auto-debit,Transportation,Metro,,,email,2026-09-15 08:31:54
+TXN-F2AD57FAA0C6,user_002,2026-09-14,11:36:08,1179,debit,netbanking,Transportation,Metro,,,sms,2026-09-14 11:55:08
+TXN-D04D9D69119A,user_005,2026-09-14,14:59:21,744,debit,card,Food & Dining,Food Delivery,Swiggy,,card,2026-09-14 17:59:21
+TXN-A37D9D8F30D1,user_002,2026-09-14,18:53:15,2953,debit,card,Groceries,Supermarket,DMart,,card,2026-09-14 21:53:15
+TXN-A2A8C72741BD,user_002,2026-09-14,19:25:13,461,debit,card,Groceries,Online Grocery,Swiggy Instamart,,card,2026-09-14 22:25:13
+TXN-430E7C3AFBCA,user_003,2026-09-14,19:36:32,75,debit,card,Transportation,Auto / Cab,Rapido,,sms,2026-09-14 19:39:32
+TXN-AAE2E1FCE1DD,user_002,2026-09-14,22:20:37,2925,debit,cash,Food & Dining,Cafes,Third Wave Coffee,,cash,2026-09-14 22:20:37
+TXN-DF4301634036,user_005,2026-09-15,06:09:03,11104,debit,cash,Travel,Hotels,,,cash,2026-09-15 13:09:03
+TXN-F3EE10B5AA9B,user_003,2026-09-15,07:36:47,646,debit,card,Groceries,Vegetables & Fruits,,,sms,2026-09-15 07:38:47
+TXN-324DD0C989B0,user_002,2026-09-15,07:50:53,3202,debit,UPI,Transportation,Bus Pass,,,bank,2026-09-15 10:50:53
+TXN-D3B7AFAD0532,user_002,2026-09-15,09:44:58,1887,debit,UPI,Food & Dining,Restaurants,Local Restaurant,,sms,2026-09-15 09:49:58
+TXN-91A7B40A6407,user_005,2026-09-15,10:56:16,1536,debit,cash,Shopping,Accessories,,,cash,2026-09-16 05:56:16
+TXN-CE261EB50BEC,user_001,2026-09-15,11:00:00,8000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-09-15 11:15:00
+TXN-64D4A4B821AE,user_002,2026-09-15,11:00:00,18000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-09-15 11:15:00
+TXN-85D2CABDDB7C,user_005,2026-09-15,11:00:00,12000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-09-15 11:15:00
+TXN-FD6545259200,user_005,2026-09-15,13:10:20,799,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-09-17 13:10:20
+TXN-72D13550BAD9,user_001,2026-09-15,16:33:12,747,debit,auto-debit,Food & Dining,Cafes,Third Wave Coffee,,email,2026-09-15 22:33:12
+TXN-CF00B0355C9C,user_002,2026-09-15,17:46:44,292,debit,cash,Entertainment,OTT Subscription,,,cash,2026-09-16 17:46:44
+TXN-91FD6E056C0B,user_002,2026-09-15,18:16:05,731,debit,netbanking,Groceries,Vegetables & Fruits,,,bank,2026-09-15 20:16:05
+TXN-BD8C2D5673FF,user_002,2026-09-16,07:37:14,84,debit,card,Entertainment,Movies,,,sms,2026-09-16 07:54:14
+TXN-C6622102C99A,user_005,2026-09-16,13:57:59,2951,debit,cash,Shopping,Clothing,,,cash,2026-09-17 04:57:59
+TXN-11BC74DD0D16,user_001,2026-09-16,17:31:28,1602,debit,card,Transportation,Bus Pass,,,sms,2026-09-16 17:57:28
+TXN-66E2880F7ED5,user_003,2026-09-16,18:12:35,2038,debit,cash,Shopping,Clothing,,,cash,2026-09-17 13:12:35
+TXN-FD2E7107FDB8,user_003,2026-09-16,19:08:48,2095,debit,cash,Groceries,Vegetables & Fruits,,,cash,2026-09-16 23:08:48
+TXN-E1E66DCFA55A,user_002,2026-09-16,23:27:44,113,debit,netbanking,Entertainment,Movies,,,bank,2026-09-17 00:27:44
+TXN-F7B4C131644B,user_002,2026-09-17,08:49:52,355,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-09-17 09:14:52
+TXN-401A959582A8,user_003,2026-09-17,11:20:22,1774,debit,cash,Food & Dining,Street Food,,,cash,2026-09-18 06:20:22
+TXN-128EECF9301F,user_003,2026-09-17,11:59:36,333,debit,netbanking,Shopping,Clothing,,,email,2026-09-17 17:59:36
+TXN-F392A8D0A35E,user_002,2026-09-17,17:10:28,2853,debit,UPI,Groceries,Online Grocery,Blinkit,,bank,2026-09-17 19:10:28
+TXN-2047595B9D68,user_002,2026-09-17,20:05:57,1766,debit,auto-debit,Entertainment,OTT Subscription,,,email,2026-09-18 03:05:57
+TXN-267144642E80,user_003,2026-09-17,20:51:28,733,debit,netbanking,Transportation,Metro,,,cash,2026-09-18 15:51:28
+TXN-0AA7D890F0AE,user_003,2026-09-18,08:03:15,857,debit,card,Food & Dining,Restaurants,Haldirams,,card,2026-09-18 12:03:15
+TXN-58C1845FA877,user_005,2026-09-18,08:46:55,1934,debit,cash,Groceries,Vegetables & Fruits,,,cash,2026-09-18 12:46:55
+TXN-FEBC900D5BAF,user_002,2026-09-18,10:08:15,1519,debit,cash,Food & Dining,Street Food,,,cash,2026-09-18 18:08:15
+TXN-0AEDC3510770,user_001,2026-09-18,16:22:27,206,debit,card,Transportation,Auto / Cab,Rapido,,sms,2026-09-18 16:46:27
+TXN-75B3AC3AC5DB,user_002,2026-09-18,19:44:01,2346,debit,auto-debit,Entertainment,OTT Subscription,,,email,2026-09-20 14:44:01
+TXN-38F3ED8C61AE,user_001,2026-09-19,09:46:12,604,debit,netbanking,Groceries,Vegetables & Fruits,,,sms,2026-09-19 09:57:12
+TXN-CB1906582383,user_003,2026-09-19,10:03:18,2427,debit,auto-debit,Transportation,Metro,,,bank,2026-09-19 11:03:18
+TXN-CA1DD5FB13DB,user_003,2026-09-19,10:30:01,96,debit,netbanking,Personal Care,Skincare,,,bank,2026-09-19 12:30:01
+TXN-47AAD4A924DA,user_001,2026-09-19,10:37:48,442,debit,cash,Food & Dining,Restaurants,Dominos,,cash,2026-09-20 02:37:48
+TXN-D0654D30D3D8,user_005,2026-09-19,16:42:37,799,debit,auto-debit,Food & Dining,Cafes,Starbucks,,email,2026-09-20 06:42:37
+TXN-9E976FF0A312,user_003,2026-09-19,17:09:44,907,debit,card,Groceries,Online Grocery,Blinkit,,sms,2026-09-19 17:32:44
+TXN-3A9ED073F766,user_002,2026-09-19,19:50:15,3143,debit,netbanking,Food & Dining,Restaurants,Local Restaurant,,bank,2026-09-19 22:50:15
+TXN-03CBC652A9EE,user_005,2026-09-19,21:15:49,319,debit,UPI,Transportation,Auto / Cab,Rapido,,sms,2026-09-19 21:31:49
+TXN-348E46F4B7B9,user_002,2026-09-19,22:25:32,1153,debit,UPI,Shopping,Online Shopping,Flipkart,,bank,2026-09-20 00:25:32
+TXN-0AC2BE48A56D,user_002,2026-09-19,22:49:04,1576,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-19 22:50:04
+TXN-574EAF118C5F,user_002,2026-09-19,23:59:20,2126,debit,auto-debit,Food & Dining,Restaurants,Barbeque Nation,,bank,2026-09-20 00:59:20
+TXN-072C30AA458D,user_001,2026-09-20,07:00:36,205,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-09-20 07:10:36
+TXN-CC5A7DD1C6E6,user_002,2026-09-20,07:34:34,1814,debit,cash,Shopping,Home Decor,,,cash,2026-09-21 02:34:34
+TXN-A205CAA46D0D,user_001,2026-09-20,09:00:45,656,debit,card,Fitness & Wellness,Fitness & Wellness,,,sms,2026-09-20 09:18:45
+TXN-7BB5D66D1E89,user_003,2026-09-20,10:00:00,20000,debit,netbanking,Self Transfers,Self Transfers,,,bank,2026-09-20 10:30:00
+TXN-608B35308329,user_005,2026-09-20,11:03:47,925,debit,UPI,Entertainment,OTT Subscription,,,sms,2026-09-20 11:06:47
+TXN-75C944A89474,user_005,2026-09-20,11:59:06,1224,debit,UPI,Fitness & Wellness,Fitness & Wellness,,,sms,2026-09-20 12:26:06
+TXN-C1DF8FC12D38,user_003,2026-09-20,12:17:42,4008,debit,UPI,Bills,Electricity,MSEDCL,,bank,2026-09-20 18:17:42
+TXN-B73AE30B89DE,user_002,2026-09-20,12:40:48,330,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-09-20 13:07:48
+TXN-17E9E38DA585,user_002,2026-09-20,19:54:15,1350,debit,cash,Entertainment,Movies,,,cash,2026-09-20 20:54:15
+TXN-989DF2A72256,user_003,2026-09-20,20:41:24,481,debit,UPI,Hospitals & Pharmacy,Medicines,,,sms,2026-09-20 20:49:24
+TXN-A4F86264BFD4,user_005,2026-09-20,20:42:30,392,debit,cash,Entertainment,Movies,,,cash,2026-09-21 10:42:30
+TXN-F49AD2A3DBF4,user_005,2026-09-20,22:41:39,2493,debit,UPI,Transportation,Metro,,,sms,2026-09-20 22:56:39
+TXN-78E4EBE16AC5,user_001,2026-09-21,07:15:07,1442,debit,auto-debit,Bills,Electricity,TSSPDCL,,email,2026-09-22 19:15:07
+TXN-42F45B66DA51,user_004,2026-09-21,07:40:28,1074,debit,netbanking,Bills,Internet,,,email,2026-09-23 07:40:28
+TXN-19471EB0AABD,user_003,2026-09-21,09:29:35,1332,debit,UPI,Shopping,Online Shopping,Meesho,,bank,2026-09-21 14:29:35
+TXN-9824DA5A23D9,user_002,2026-09-21,10:47:42,3914,debit,auto-debit,Bills,Electricity,MSEDCL,,bank,2026-09-21 15:47:42
+TXN-FD5A31C7324E,user_005,2026-09-21,10:48:41,727,debit,cash,Food & Dining,Restaurants,Local Restaurant,,cash,2026-09-21 14:48:41
+TXN-A8089BDE5950,user_003,2026-09-21,12:10:01,2208,debit,netbanking,Food & Dining,Restaurants,Haldirams,,email,2026-09-22 11:10:01
+TXN-CDC6299993BE,user_004,2026-09-21,16:24:42,623,debit,UPI,Food & Dining,Street Food,,,bank,2026-09-21 17:24:42
+TXN-4909A33BA3B2,user_003,2026-09-21,19:40:16,1278,debit,card,Transportation,Metro,,,sms,2026-09-21 20:09:16
+TXN-F93AB063BDC7,user_001,2026-09-21,20:25:31,76,debit,card,Transportation,Auto / Cab,Uber,,card,2026-09-21 20:25:31
+TXN-099C1DF30B35,user_002,2026-09-21,22:33:33,968,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-09-21 22:59:33
+TXN-FF03FC29C5BB,user_005,2026-09-21,22:55:25,254,debit,UPI,Transportation,Auto / Cab,Uber,,bank,2026-09-21 22:55:25
+TXN-97AAD3BDA640,user_003,2026-09-22,08:57:25,2313,debit,netbanking,Education,Courses,,,card,2026-09-22 09:57:25
+TXN-801329388C50,user_005,2026-09-22,11:06:53,1330,debit,auto-debit,Shopping,Home Decor,,,bank,2026-09-22 13:06:53
+TXN-E1DE53327B2F,user_002,2026-09-22,13:24:58,1129,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-09-22 14:24:58
+TXN-331288680909,user_001,2026-09-22,13:28:19,2048,debit,cash,Bills,Mobile Recharge,Vi,,cash,2026-09-23 07:28:19
+TXN-094056B4DA82,user_002,2026-09-22,14:03:31,979,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-09-22 14:31:31
+TXN-6D57887F92F8,user_001,2026-09-22,17:47:06,1214,debit,auto-debit,Fitness & Wellness,Fitness & Wellness,,,bank,2026-09-22 23:47:06
+TXN-ADF97FE590EF,user_002,2026-09-22,19:01:21,599,debit,netbanking,Food & Dining,Cafes,Chai Point,,bank,2026-09-23 01:01:21
+TXN-C1988517CF58,user_002,2026-09-22,21:43:46,724,debit,netbanking,Shopping,Accessories,,,bank,2026-09-22 21:43:46
+TXN-FC8EAD431EB0,user_005,2026-09-23,07:32:21,499,debit,auto-debit,Subscriptions,News,,,email,2026-09-24 13:32:21
+TXN-50079E15ED98,user_001,2026-09-23,08:26:28,310,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-09-23 13:26:28
+TXN-64525B770F36,user_002,2026-09-23,09:33:02,631,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-09-23 12:33:02
+TXN-D1BC6D7D424F,user_002,2026-09-23,11:26:58,799,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-09-23 16:26:58
+TXN-93C58BF9EA2A,user_005,2026-09-23,17:05:48,2011,debit,netbanking,Shopping,Home Decor,,,cash,2026-09-24 06:05:48
+TXN-FCE05D04DAA3,user_001,2026-09-24,06:14:59,640,debit,netbanking,Groceries,Supermarket,Reliance Fresh,,email,2026-09-24 23:14:59
+TXN-A5B778449770,user_002,2026-09-24,07:29:00,3248,debit,netbanking,Shopping,Accessories,,,sms,2026-09-24 07:41:00
+TXN-215E171D0213,user_003,2026-09-24,09:09:27,971,debit,cash,Education,Exam Fees,,,cash,2026-09-24 18:09:27
+TXN-DBFAAF0986B9,user_005,2026-09-24,10:08:43,384,debit,cash,Entertainment,Gaming,,,cash,2026-09-24 19:08:43
+TXN-C121EF67F1AC,user_005,2026-09-24,15:41:33,695,debit,cash,Transportation,Bus Pass,,,cash,2026-09-24 17:41:33
+TXN-65B71B557AD1,user_001,2026-09-24,17:58:17,920,debit,UPI,Entertainment,OTT Subscription,,,bank,2026-09-24 23:58:17
+TXN-C86DB46B88D3,user_002,2026-09-25,00:26:01,2318,debit,card,Transportation,Bus Pass,,,card,2026-09-25 01:26:01
+TXN-CE0993F7A6B6,user_005,2026-09-25,05:26:56,795,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-25 05:49:56
+TXN-DD4E85A6CD81,user_003,2026-09-25,10:35:34,1801,debit,card,Personal Care,Salon,,,card,2026-09-25 10:35:34
+TXN-C55EFD29ACB9,user_004,2026-09-25,11:46:02,149,debit,auto-debit,Subscriptions,Streaming,Amazon Prime,,bank,2026-09-25 14:46:02
+TXN-ACD35BFEC522,user_001,2026-09-25,13:29:44,1268,debit,auto-debit,Food & Dining,Cafes,Chai Point,,email,2026-09-26 09:29:44
+TXN-4D5AFC272F4F,user_002,2026-09-25,13:37:31,3109,debit,auto-debit,Shopping,Accessories,,,bank,2026-09-25 19:37:31
+TXN-FAC1A77E24CF,user_004,2026-09-25,14:53:51,159,debit,cash,Food & Dining,Street Food,,,cash,2026-09-26 04:53:51
+TXN-D4C832FD84CB,user_005,2026-09-25,16:49:32,1963,debit,card,Shopping,Online Shopping,Myntra,,sms,2026-09-25 16:50:32
+TXN-27D35890DFCA,user_003,2026-09-25,20:19:44,579,debit,UPI,Groceries,Online Grocery,Blinkit,,bank,2026-09-26 01:19:44
+TXN-3A722EA1643B,user_005,2026-09-25,21:32:06,2388,debit,UPI,Shopping,Accessories,,,bank,2026-09-26 01:32:06
+TXN-FAA80953DC50,user_003,2026-09-25,22:19:28,160,debit,cash,Food & Dining,Restaurants,Haldirams,,cash,2026-09-26 21:19:28
+TXN-113891B7B648,user_003,2026-09-26,07:11:01,1161,debit,card,Personal Care,Grooming,,,card,2026-09-26 11:11:01
+TXN-F588CFB4C294,user_003,2026-09-26,09:01:22,4845,debit,card,Bills,Mobile Recharge,Vi,,card,2026-09-26 09:01:22
+TXN-5CF279EE81CA,user_005,2026-09-26,13:01:00,2534,debit,netbanking,Entertainment,Movies,,,bank,2026-09-26 16:01:00
+TXN-556E812189C9,user_001,2026-09-26,13:38:02,1155,debit,cash,Education,Exam Fees,,,cash,2026-09-27 02:38:02
+TXN-C196101F8505,user_002,2026-09-26,16:32:08,1771,debit,card,Groceries,Online Grocery,Zepto,,card,2026-09-26 19:32:08
+TXN-B2629060B1FF,user_005,2026-09-26,17:16:21,2805,debit,cash,Transportation,Metro,,,cash,2026-09-26 22:16:21
+TXN-64F85BC72285,user_002,2026-09-26,18:05:02,1799,debit,UPI,Food & Dining,Restaurants,Local Restaurant,,bank,2026-09-26 19:05:02
+TXN-836BFE1494EE,user_003,2026-09-26,18:23:11,589,debit,auto-debit,Transportation,Metro,,,email,2026-09-27 19:23:11
+TXN-F424CD45919A,user_005,2026-09-26,18:55:42,2746,debit,cash,Food & Dining,Restaurants,Local Restaurant,,cash,2026-09-27 17:55:42
+TXN-D5F8C76818DC,user_002,2026-09-26,20:46:19,1452,debit,UPI,Entertainment,Movies,,,sms,2026-09-26 20:50:19
+TXN-049D89E39769,user_001,2026-09-26,22:53:55,102,debit,UPI,Shopping,Accessories,,,bank,2026-09-27 02:53:55
+TXN-4D6D20288E79,user_005,2026-09-27,08:27:01,412,debit,netbanking,Shopping,Clothing,,,email,2026-09-27 16:27:01
+TXN-34B7DF88C685,user_003,2026-09-27,09:28:55,870,debit,card,Education,Courses,,,card,2026-09-27 13:28:55
+TXN-BA2BAACF1B46,user_002,2026-09-27,10:54:20,2793,debit,card,Shopping,Home Decor,,,card,2026-09-27 13:54:20
+TXN-230FC804E964,user_005,2026-09-27,13:55:28,2937,debit,cash,Food & Dining,Restaurants,Local Restaurant,,cash,2026-09-28 07:55:28
+TXN-A86E9CA48DE2,user_005,2026-09-27,14:09:41,166,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-09-27 15:09:41
+TXN-10D4607CDC1A,user_001,2026-09-27,15:28:58,1230,debit,card,Food & Dining,Cafes,Starbucks,,sms,2026-09-27 15:37:58
+TXN-7CFC583C3818,user_003,2026-09-27,19:00:59,966,debit,cash,Food & Dining,Restaurants,Barbeque Nation,,cash,2026-09-28 03:00:59
+TXN-9CF0472E8E4D,user_005,2026-09-27,19:05:08,2888,debit,cash,Shopping,Accessories,,,cash,2026-09-27 23:05:08
+TXN-2B4B2227CBD7,user_004,2026-09-27,19:14:59,1418,debit,auto-debit,Groceries,Vegetables & Fruits,,,bank,2026-09-27 19:14:59
+TXN-4E0CB66953BC,user_001,2026-09-27,22:30:22,1350,debit,cash,Food & Dining,Street Food,,,cash,2026-09-28 11:30:22
+TXN-57F10CD64311,user_002,2026-09-28,07:12:08,1934,debit,netbanking,Entertainment,Events,,,card,2026-09-28 11:12:08
+TXN-B77D3703EDDB,user_002,2026-09-28,07:15:22,960,debit,netbanking,Entertainment,Movies,,,card,2026-09-28 10:15:22
+TXN-2D25A606D37E,user_005,2026-09-28,07:54:45,268,debit,netbanking,Entertainment,Gaming,,,bank,2026-09-28 10:54:45
+TXN-91206B9EF85E,user_002,2026-09-28,08:22:49,710,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-09-28 08:29:49
+TXN-252E6B8419B0,user_002,2026-09-28,08:43:19,1165,debit,UPI,Shopping,Home Decor,,,bank,2026-09-28 14:43:19
+TXN-8354B59B527A,user_003,2026-09-28,12:02:38,1050,debit,cash,Groceries,Vegetables & Fruits,,,cash,2026-09-29 11:02:38
+TXN-43C494E89B8D,user_003,2026-09-28,15:28:29,1654,debit,auto-debit,Entertainment,Events,,,bank,2026-09-28 21:28:29
+TXN-F1909BCFA700,user_001,2026-09-28,18:18:42,725,debit,cash,Shopping,Clothing,,,cash,2026-09-29 06:18:42
+TXN-0A53886C45C3,user_001,2026-09-29,06:33:23,386,debit,card,Transportation,Auto / Cab,Rapido,,sms,2026-09-29 06:53:23
+TXN-22A886F6B4CD,user_002,2026-09-29,07:50:08,467,debit,cash,Entertainment,OTT Subscription,,,cash,2026-09-29 10:50:08
+TXN-E5D29476C376,user_001,2026-09-29,10:08:59,1606,debit,UPI,Entertainment,Gaming,,,bank,2026-09-29 12:08:59
+TXN-35DF85DBAFC1,user_002,2026-09-29,11:40:41,615,debit,cash,Food & Dining,Restaurants,Dominos,,cash,2026-09-29 13:40:41
+TXN-E6A01D56446B,user_001,2026-09-29,11:49:25,921,debit,netbanking,Bills,Internet,,,sms,2026-09-29 12:17:25
+TXN-6C4C91173C79,user_005,2026-09-29,12:32:37,149,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-10-01 11:32:37
+TXN-FE51A2BBAD8A,user_005,2026-09-29,15:27:36,2058,debit,card,Transportation,Bus Pass,,,card,2026-09-29 17:27:36
+TXN-F37E64142173,user_003,2026-09-29,18:57:09,1245,debit,auto-debit,Shopping,Home Decor,,,bank,2026-09-29 21:57:09
+TXN-CF1F960BC213,user_003,2026-09-29,20:49:52,817,debit,card,Shopping,Online Shopping,Myntra,,sms,2026-09-29 20:59:52
+TXN-02070D3065D3,user_005,2026-09-29,21:07:31,2715,debit,cash,Transportation,Metro,,,cash,2026-09-30 16:07:31
+TXN-7DBC4B706D0D,user_003,2026-09-29,22:02:35,2164,debit,auto-debit,Personal Care,Salon,,,email,2026-09-30 23:02:35
+TXN-87D5632491C9,user_002,2026-09-29,22:54:28,3439,debit,card,Entertainment,Events,,,card,2026-09-30 02:54:28
+TXN-5B042B0D86D0,user_002,2026-09-30,07:54:53,316,debit,card,Food & Dining,Food Delivery,Swiggy,,card,2026-09-30 09:54:53
+TXN-A7DF28BB400B,user_002,2026-09-30,09:11:17,787,debit,cash,Food & Dining,Street Food,,,cash,2026-09-30 17:11:17
+TXN-2892DE6F393C,user_003,2026-09-30,11:01:11,776,debit,card,Shopping,Online Shopping,Flipkart,,sms,2026-09-30 11:16:11
+TXN-D801D4A9760B,user_003,2026-09-30,11:41:58,3924,debit,UPI,Bills,Water,,,sms,2026-09-30 12:04:58
+TXN-59D4EB1A9196,user_001,2026-09-30,16:35:26,109,debit,UPI,Shopping,Online Shopping,Flipkart,,sms,2026-09-30 16:38:26
+TXN-5F9F8DEAF9E0,user_003,2026-09-30,17:05:33,413,debit,UPI,Entertainment,Movies,,,sms,2026-09-30 17:28:33
+TXN-29B13860D08C,user_005,2026-09-30,19:30:22,145,debit,card,Entertainment,Gaming,,,sms,2026-09-30 19:45:22
+TXN-B06EF901AAFA,user_002,2026-09-30,20:25:31,287,debit,UPI,Food & Dining,Street Food,,,sms,2026-09-30 20:26:31
+TXN-7D2AF90B34E2,user_005,2026-09-30,20:43:41,2973,debit,cash,Food & Dining,Cafes,Third Wave Coffee,,cash,2026-10-01 19:43:41
+TXN-79C176BD3AEE,user_005,2026-09-30,20:45:42,2467,debit,netbanking,Entertainment,OTT Subscription,,,cash,2026-10-01 10:45:42
+TXN-C7538B685D1A,user_003,2026-10-01,05:10:58,1591,debit,auto-debit,Entertainment,OTT Subscription,,,email,2026-10-02 03:10:58
+TXN-86EA6856D0B6,user_001,2026-10-01,09:00:00,65000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-10-01 09:00:00
+TXN-5EABDB4516A3,user_002,2026-10-01,09:00:00,55000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-10-01 09:00:00
+TXN-3A783A52633D,user_003,2026-10-01,09:00:00,48000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-10-01 09:00:00
+TXN-98AE1612B203,user_005,2026-10-01,09:00:00,72000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-10-01 09:00:00
+TXN-0614D69A0856,user_002,2026-10-01,09:56:51,642,debit,cash,Food & Dining,Street Food,,,cash,2026-10-02 01:56:51
+TXN-6D7A9965BC3A,user_002,2026-10-01,11:36:32,1050,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-10-01 11:47:32
+TXN-7BE89EB391DE,user_002,2026-10-01,12:35:30,2731,debit,cash,Food & Dining,Restaurants,Haldirams,,cash,2026-10-01 13:35:30
+TXN-07320EC39C13,user_001,2026-10-01,14:45:18,499,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-10-01 18:45:18
+TXN-93C6C4B7DB43,user_005,2026-10-01,18:05:42,2607,debit,card,Shopping,Clothing,,,sms,2026-10-01 18:21:42
+TXN-0F4BCD7C4DA9,user_002,2026-10-02,06:30:33,2525,debit,UPI,Food & Dining,Cafes,Starbucks,,sms,2026-10-02 06:42:33
+TXN-80528062B0D9,user_002,2026-10-02,09:37:20,2438,debit,netbanking,Food & Dining,Restaurants,Local Restaurant,,card,2026-10-02 11:37:20
+TXN-11C345BE17C1,user_002,2026-10-02,10:52:50,131,debit,UPI,Transportation,Auto / Cab,Ola,,bank,2026-10-02 15:52:50
+TXN-FFCC9E0589E6,user_001,2026-10-02,11:50:32,771,debit,netbanking,Bills,Water,,,email,2026-10-03 05:50:32
+TXN-DFD84E852C20,user_003,2026-10-02,12:19:46,133,debit,UPI,Transportation,Auto / Cab,Ola,,bank,2026-10-02 18:19:46
+TXN-B9516C7CCBE3,user_001,2026-10-02,16:24:12,1017,debit,card,Transportation,Metro,,,sms,2026-10-02 16:54:12
+TXN-FE5DCEE1A086,user_004,2026-10-02,20:06:29,59,debit,UPI,Food & Dining,Restaurants,Dominos,,sms,2026-10-02 20:26:29
+TXN-2D3DA3F52DD0,user_005,2026-10-02,21:31:19,473,debit,cash,Food & Dining,Street Food,,,cash,2026-10-03 04:31:19
+TXN-73F81CD599AE,user_003,2026-10-02,22:00:39,780,debit,UPI,Education,Books,,,bank,2026-10-03 04:00:39
+TXN-C3D1AAE6FDC6,user_002,2026-10-03,06:38:14,2088,debit,UPI,Shopping,Clothing,,,bank,2026-10-03 06:38:14
+TXN-52600D578DE5,user_005,2026-10-03,08:14:31,495,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-10-03 10:14:31
+TXN-1C1395415A7F,user_003,2026-10-03,09:37:42,2266,debit,UPI,Shopping,Home Decor,,,sms,2026-10-03 09:53:42
+TXN-3BF2D4A96423,user_005,2026-10-03,09:55:57,517,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-10-03 13:55:57
+TXN-C95043890074,user_002,2026-10-03,10:08:10,971,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-10-03 10:32:10
+TXN-04F60AB7CA47,user_001,2026-10-03,18:51:24,139,debit,netbanking,Groceries,Vegetables & Fruits,,,email,2026-10-04 19:51:24
+TXN-32DE46A6FAF3,user_002,2026-10-03,18:58:51,1438,debit,UPI,Shopping,Online Shopping,Flipkart,,sms,2026-10-03 19:26:51
+TXN-88F5EAE1F265,user_005,2026-10-03,18:59:28,251,debit,card,Travel,Train,IRCTC,,card,2026-10-03 21:59:28
+TXN-0FB1B3EF96C3,user_002,2026-10-03,19:54:33,169,debit,auto-debit,Groceries,Supermarket,DMart,,bank,2026-10-04 01:54:33
+TXN-CA8D0AF5C692,user_001,2026-10-03,20:28:34,1765,debit,auto-debit,Groceries,Vegetables & Fruits,,,email,2026-10-05 03:28:34
+TXN-AA1B9B279C83,user_001,2026-10-03,20:44:15,1612,debit,card,Groceries,Online Grocery,Swiggy Instamart,,sms,2026-10-03 21:03:15
+TXN-F18137CAFAB6,user_002,2026-10-03,20:51:56,2405,debit,card,Food & Dining,Cafes,Chai Point,,card,2026-10-03 23:51:56
+TXN-1FA4E3215724,user_002,2026-10-04,01:13:15,3445,debit,netbanking,Groceries,Supermarket,Reliance Fresh,,email,2026-10-05 22:13:15
+TXN-77567B1E9A10,user_001,2026-10-04,02:09:26,254,debit,cash,Food & Dining,Street Food,,,cash,2026-10-04 22:09:26
+TXN-7CB4BB25D012,user_003,2026-10-04,05:26:11,741,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-10-04 06:26:11
+TXN-D67F97B6D177,user_003,2026-10-04,09:03:41,1042,debit,UPI,Shopping,Online Shopping,Myntra,,bank,2026-10-04 11:03:41
+TXN-C007E0656595,user_002,2026-10-04,09:20:10,656,debit,netbanking,Shopping,Home Decor,,,bank,2026-10-04 14:20:10
+TXN-208CBCB7CF28,user_002,2026-10-04,10:44:18,390,debit,UPI,Transportation,Auto / Cab,Rapido,,sms,2026-10-04 10:49:18
+TXN-80E6927ACE67,user_005,2026-10-04,13:26:49,1430,debit,UPI,Food & Dining,Cafes,Starbucks,,bank,2026-10-04 19:26:49
+TXN-F4845D4FA989,user_005,2026-10-04,14:05:17,1458,debit,cash,Food & Dining,Street Food,,,cash,2026-10-05 01:05:17
+TXN-2CAE5F3B2F0F,user_005,2026-10-04,14:10:40,799,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-10-04 14:10:40
+TXN-4FEF6F7C1768,user_001,2026-10-04,14:37:21,1064,debit,UPI,Entertainment,OTT Subscription,,,bank,2026-10-04 20:37:21
+TXN-5D74F5E66638,user_001,2026-10-04,17:25:41,1011,debit,netbanking,Hospitals & Pharmacy,Doctor Visit,,,sms,2026-10-04 17:28:41
+TXN-8397E5C7B865,user_002,2026-10-04,18:35:44,2739,debit,netbanking,Transportation,Metro,,,card,2026-10-04 22:35:44
+TXN-E5E151FB37EC,user_005,2026-10-04,19:31:46,703,debit,netbanking,Fitness & Wellness,Fitness & Wellness,,,email,2026-10-05 02:31:46
+TXN-B1DE68F670A9,user_005,2026-10-04,19:33:26,1537,debit,card,Groceries,Vegetables & Fruits,,,card,2026-10-04 20:33:26
+TXN-AE0A41515C67,user_002,2026-10-04,21:39:14,650,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-10-04 22:00:14
+TXN-0976A83C3EA2,user_001,2026-10-05,05:50:03,390,debit,netbanking,Personal Care,Skincare,,,bank,2026-10-05 07:50:03
+TXN-DC6C9B54712A,user_001,2026-10-05,10:00:00,12000,debit,netbanking,Rent,Rent,,,bank,2026-10-05 10:30:00
+TXN-AD90501293EF,user_002,2026-10-05,10:00:00,15000,debit,netbanking,Rent,Rent,,,bank,2026-10-05 10:30:00
+TXN-7EE0FC42FD85,user_003,2026-10-05,10:00:00,10000,debit,netbanking,Rent,Rent,,,bank,2026-10-05 10:30:00
+TXN-83E377CAF2D9,user_005,2026-10-05,10:00:00,14000,debit,netbanking,Rent,Rent,,,bank,2026-10-05 10:30:00
+TXN-2FD12A657CC7,user_003,2026-10-05,19:23:59,4888,debit,card,Bills,Mobile Recharge,Vi,,sms,2026-10-05 19:25:59
+TXN-E2F88C349C57,user_004,2026-10-05,19:27:21,1248,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-06 01:27:21
+TXN-82CD7E4E401E,user_001,2026-10-05,20:02:39,828,debit,netbanking,Personal Care,Grooming,,,email,2026-10-06 01:02:39
+TXN-68D3A6712016,user_003,2026-10-05,20:48:27,1362,debit,cash,Food & Dining,Cafes,Third Wave Coffee,,cash,2026-10-06 13:48:27
+TXN-E2A59E8CE420,user_005,2026-10-05,21:28:09,1939,debit,auto-debit,Shopping,Home Decor,,,email,2026-10-05 22:28:09
+TXN-507E2BDAB49F,user_001,2026-10-05,22:48:40,515,debit,UPI,Food & Dining,Cafes,Chai Point,,sms,2026-10-05 23:11:40
+TXN-CA7718ED5FA3,user_002,2026-10-05,22:56:26,299,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-10-05 23:12:26
+TXN-92576B153C93,user_002,2026-10-06,08:06:21,2757,debit,card,Entertainment,Gaming,,,sms,2026-10-06 08:13:21
+TXN-D822BD91631C,user_001,2026-10-06,09:39:55,321,debit,UPI,Transportation,Auto / Cab,Uber,,bank,2026-10-06 12:39:55
+TXN-DF4574C168FF,user_002,2026-10-06,10:20:16,1928,debit,UPI,Entertainment,OTT Subscription,,,bank,2026-10-06 10:20:16
+TXN-FF344F47BBE0,user_002,2026-10-06,11:39:57,1617,debit,UPI,Food & Dining,Restaurants,Dominos,,bank,2026-10-06 14:39:57
+TXN-F3A03FD49FA7,user_004,2026-10-06,11:50:13,694,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-10-06 17:50:13
+TXN-3B702E6A1B24,user_002,2026-10-06,19:36:41,495,debit,cash,Food & Dining,Street Food,,,cash,2026-10-07 19:36:41
+TXN-F113B2EC8C5E,user_005,2026-10-06,22:10:27,407,debit,card,Shopping,Online Shopping,Myntra,,sms,2026-10-06 22:12:27
+TXN-D82C5D0AB35A,user_005,2026-10-06,22:45:51,2764,debit,card,Entertainment,Movies,,,card,2026-10-07 02:45:51
+TXN-277BB7503B54,user_002,2026-10-07,07:25:36,2785,debit,netbanking,Food & Dining,Cafes,Third Wave Coffee,,card,2026-10-07 11:25:36
+TXN-B88383459E79,user_002,2026-10-07,07:52:42,77,debit,UPI,Transportation,Auto / Cab,Uber,,sms,2026-10-07 08:13:42
+TXN-976F25377260,user_002,2026-10-07,09:18:05,477,debit,UPI,Entertainment,OTT Subscription,,,bank,2026-10-07 12:18:05
+TXN-E76E531BBEC8,user_001,2026-10-07,10:00:57,525,debit,netbanking,Food & Dining,Restaurants,Local Restaurant,,email,2026-10-08 16:00:57
+TXN-20B949580E08,user_003,2026-10-07,10:36:39,645,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-10-07 10:48:39
+TXN-B6B69A103C66,user_005,2026-10-07,12:46:47,204,debit,UPI,Transportation,Auto / Cab,Ola,,sms,2026-10-07 13:15:47
+TXN-0F4A2A894F8F,user_001,2026-10-07,13:22:37,1169,debit,card,Education,Exam Fees,,,card,2026-10-07 15:22:37
+TXN-B500597429EB,user_002,2026-10-07,13:57:42,3294,debit,cash,Transportation,Metro,,,cash,2026-10-07 21:57:42
+TXN-C1171AEF2AD2,user_003,2026-10-07,15:44:13,1388,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-10-08 10:44:13
+TXN-FE80ED634BAD,user_005,2026-10-07,18:56:51,1887,debit,card,Sports,Sports,,,sms,2026-10-07 19:22:51
+TXN-6BEECA1B20AC,user_002,2026-10-07,20:23:11,837,debit,cash,Food & Dining,Street Food,,,cash,2026-10-08 10:23:11
+TXN-701644D50E92,user_005,2026-10-07,20:57:33,1344,debit,netbanking,Shopping,Accessories,,,bank,2026-10-08 00:57:33
+TXN-BD25D278548C,user_003,2026-10-08,03:40:50,832,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-10-08 03:40:50
+TXN-DA43B265E79C,user_003,2026-10-08,05:22:35,459,debit,card,Transportation,Auto / Cab,Rapido,,sms,2026-10-08 05:48:35
+TXN-C792B2B86DF0,user_002,2026-10-08,08:44:42,1006,debit,auto-debit,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-10-08 08:44:42
+TXN-708CD71A0C1F,user_003,2026-10-08,14:11:56,4457,debit,cash,Bills,Internet,,,cash,2026-10-09 09:11:56
+TXN-F916E7E2814F,user_005,2026-10-08,15:48:40,935,debit,auto-debit,Travel,Train,IRCTC,,email,2026-10-09 02:48:40
+TXN-5F7E1447B5C0,user_001,2026-10-08,22:42:25,1227,debit,netbanking,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-10-09 00:42:25
+TXN-DB7469200B87,user_001,2026-10-08,23:54:30,985,debit,netbanking,Transportation,Metro,,,card,2026-10-08 23:54:30
+TXN-CF6078847AFC,user_003,2026-10-09,10:35:20,1193,debit,UPI,Food & Dining,Restaurants,Haldirams,,sms,2026-10-09 11:00:20
+TXN-62BF7B3EA613,user_003,2026-10-09,20:12:21,1438,debit,auto-debit,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-10-10 02:12:21
+TXN-039409D87415,user_002,2026-10-09,20:52:33,3178,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-09 23:52:33
+TXN-43F6F57F8CED,user_001,2026-10-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-10-10 06:15:00
+TXN-1253DFBB52EB,user_001,2026-10-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-10-10 06:15:00
+TXN-6BB890C262D9,user_002,2026-10-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-10-10 06:15:00
+TXN-33E2C4B73805,user_002,2026-10-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-10-10 06:15:00
+TXN-9828799768CA,user_002,2026-10-10,06:00:00,299,debit,auto-debit,Subscriptions,Streaming,Hotstar,,bank,2026-10-10 06:15:00
+TXN-156D3BBC23E9,user_002,2026-10-10,06:00:00,179,debit,auto-debit,Subscriptions,Streaming,Amazon Prime,,bank,2026-10-10 06:15:00
+TXN-E499DD0459FD,user_003,2026-10-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-10-10 06:15:00
+TXN-04A60D7D8DE0,user_005,2026-10-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-10-10 06:15:00
+TXN-7317D7B2ABAB,user_005,2026-10-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-10-10 06:15:00
+TXN-0B64921C22B2,user_005,2026-10-10,06:00:00,149,debit,auto-debit,Subscriptions,Streaming,YouTube Premium,,bank,2026-10-10 06:15:00
+TXN-9E6DF36DC10E,user_005,2026-10-10,07:33:37,499,debit,auto-debit,Subscriptions,News,,,bank,2026-10-10 08:33:37
+TXN-111AF795F67B,user_005,2026-10-10,08:27:53,499,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-10-10 11:27:53
+TXN-937C27C73BDA,user_003,2026-10-10,08:29:57,185,debit,card,Transportation,Metro,,,sms,2026-10-10 08:57:57
+TXN-AFA1F42212F7,user_005,2026-10-10,08:48:41,799,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-10-10 16:48:41
+TXN-F0241F952F58,user_002,2026-10-10,09:10:13,572,debit,cash,Entertainment,OTT Subscription,,,cash,2026-10-10 15:10:13
+TXN-408CBF5C6359,user_002,2026-10-10,09:52:40,400,debit,cash,Food & Dining,Street Food,,,cash,2026-10-10 13:52:40
+TXN-C5CEF1778EBF,user_002,2026-10-10,10:25:57,2425,debit,card,Entertainment,Gaming,,,sms,2026-10-10 10:53:57
+TXN-FBC9D58C2C84,user_001,2026-10-10,10:28:02,1336,debit,UPI,Shopping,Clothing,,,bank,2026-10-10 14:28:02
+TXN-7D61818726DA,user_005,2026-10-10,11:18:42,1916,debit,UPI,Shopping,Online Shopping,Myntra,,bank,2026-10-10 17:18:42
+TXN-B424AECC2A13,user_002,2026-10-10,12:09:36,1956,debit,card,Groceries,Online Grocery,BigBasket,,card,2026-10-10 16:09:36
+TXN-1ABCEECCDACE,user_002,2026-10-10,12:25:35,1389,debit,UPI,Transportation,Metro,,,bank,2026-10-10 14:25:35
+TXN-30AC86BD94FA,user_001,2026-10-10,18:46:49,1994,debit,card,Bills,Gas,,,sms,2026-10-10 19:08:49
+TXN-4FDBA50244B2,user_001,2026-10-10,20:57:18,1914,debit,auto-debit,Entertainment,Movies,,,email,2026-10-11 11:57:18
+TXN-C7CD98DD1D68,user_005,2026-10-10,23:07:46,1048,debit,netbanking,Shopping,Accessories,,,email,2026-10-11 03:07:46
+TXN-3564C68F54CA,user_002,2026-10-11,05:17:25,2423,debit,cash,Food & Dining,Street Food,,,cash,2026-10-11 09:17:25
+TXN-2185EA62E01E,user_003,2026-10-11,06:09:17,2405,debit,netbanking,Shopping,Clothing,,,sms,2026-10-11 06:36:17
+TXN-DAB5607D69EC,user_005,2026-10-11,07:43:33,2010,debit,cash,Food & Dining,Restaurants,Dominos,,cash,2026-10-11 19:43:33
+TXN-64CC16C0D358,user_001,2026-10-11,09:08:50,719,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-10-12 02:08:50
+TXN-4BA39241CE70,user_004,2026-10-11,09:37:02,1163,debit,cash,Food & Dining,Cafes,Starbucks,,cash,2026-10-11 13:37:02
+TXN-C37CF49A2747,user_005,2026-10-11,14:27:28,1677,debit,netbanking,Transportation,Bus Pass,,,cash,2026-10-12 12:27:28
+TXN-4669BAE3D856,user_003,2026-10-11,16:43:20,269,debit,auto-debit,Groceries,Vegetables & Fruits,,,email,2026-10-13 04:43:20
+TXN-E03152BCEF92,user_002,2026-10-11,20:56:22,149,debit,auto-debit,Subscriptions,Streaming,Netflix,,email,2026-10-12 23:56:22
+TXN-9175D7E6327E,user_002,2026-10-11,21:21:44,238,debit,cash,Entertainment,Gaming,,,cash,2026-10-12 04:21:44
+TXN-550459E6C6C8,user_005,2026-10-12,07:23:36,2524,debit,cash,Entertainment,Movies,,,cash,2026-10-12 16:23:36
+TXN-6F0C646B9E17,user_005,2026-10-12,13:47:10,2904,debit,card,Fitness & Wellness,Fitness & Wellness,,,sms,2026-10-12 14:05:10
+TXN-373FB6A9EB56,user_005,2026-10-12,14:29:08,727,debit,card,Shopping,Home Decor,,,card,2026-10-12 18:29:08
+TXN-36F84C0A0AC2,user_002,2026-10-12,20:19:19,1605,debit,UPI,Shopping,Accessories,,,sms,2026-10-12 20:28:19
+TXN-14E707FE8F99,user_001,2026-10-12,21:30:51,1920,debit,UPI,Groceries,Online Grocery,Zepto,,sms,2026-10-12 21:40:51
+TXN-FADDB43149C0,user_001,2026-10-12,22:09:48,1697,debit,UPI,Shopping,Accessories,,,sms,2026-10-12 22:17:48
+TXN-D4886CF16AB0,user_001,2026-10-12,22:51:35,1431,debit,cash,Personal Care,Grooming,,,cash,2026-10-13 09:51:35
+TXN-20DD52AD7270,user_004,2026-10-13,00:59:05,62,debit,UPI,Groceries,Supermarket,More Supermarket,,bank,2026-10-13 05:59:05
+TXN-63F8544A81F4,user_002,2026-10-13,04:03:58,447,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-10-13 06:03:58
+TXN-1365DBB26C3E,user_002,2026-10-13,06:45:32,3442,debit,UPI,Entertainment,Events,,,bank,2026-10-13 09:45:32
+TXN-0A6A07647023,user_003,2026-10-13,07:56:15,169,debit,netbanking,Transportation,Metro,,,email,2026-10-14 07:56:15
+TXN-32799AC574D8,user_003,2026-10-13,09:07:55,4877,debit,auto-debit,Bills,Water,,,email,2026-10-14 05:07:55
+TXN-09F058067AEF,user_003,2026-10-13,09:23:50,925,debit,auto-debit,Shopping,Accessories,,,email,2026-10-13 12:23:50
+TXN-2C3EDFCF06B9,user_001,2026-10-13,11:47:43,1148,debit,UPI,Groceries,Vegetables & Fruits,,,sms,2026-10-13 11:56:43
+TXN-D6E6E1C36A89,user_002,2026-10-13,13:58:52,2557,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-13 16:58:52
+TXN-E3EAD2759259,user_002,2026-10-13,22:28:49,482,debit,UPI,Groceries,Online Grocery,Blinkit,,sms,2026-10-13 22:55:49
+TXN-AC36F857917E,user_005,2026-10-14,03:09:09,1302,debit,netbanking,Entertainment,Events,,,email,2026-10-15 17:09:09
+TXN-B6AE156601C7,user_003,2026-10-14,08:55:06,2184,debit,netbanking,Hospitals & Pharmacy,Lab Tests,,,sms,2026-10-14 09:22:06
+TXN-885AF1F34BA0,user_002,2026-10-14,09:55:30,2513,debit,cash,Food & Dining,Street Food,,,cash,2026-10-15 03:55:30
+TXN-B8E7DA02F619,user_002,2026-10-14,10:24:03,749,debit,netbanking,Shopping,Accessories,,,bank,2026-10-14 11:24:03
+TXN-60CCDF03B449,user_002,2026-10-14,10:26:32,986,debit,card,Groceries,Supermarket,Reliance Fresh,,card,2026-10-14 10:26:32
+TXN-4704DBB214BA,user_001,2026-10-14,13:39:56,149,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-10-14 17:39:56
+TXN-4D3B810CCC09,user_001,2026-10-14,17:07:08,503,debit,card,Groceries,Online Grocery,BigBasket,,sms,2026-10-14 17:09:08
+TXN-D90B853EE756,user_002,2026-10-14,17:07:43,2148,debit,cash,Food & Dining,Street Food,,,cash,2026-10-14 17:07:43
+TXN-5CB5FAC772C5,user_003,2026-10-14,21:09:12,2112,debit,UPI,Hospitals & Pharmacy,Medicines,,,sms,2026-10-14 21:20:12
+TXN-DA08C632B51D,user_002,2026-10-15,10:06:30,799,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-10-15 15:06:30
+TXN-3BC34247F396,user_001,2026-10-15,11:00:00,8000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-10-15 11:15:00
+TXN-F1976C37B6ED,user_002,2026-10-15,11:00:00,18000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-10-15 11:15:00
+TXN-1CAEF5DA49B8,user_005,2026-10-15,11:00:00,12000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-10-15 11:15:00
+TXN-91E63D590426,user_003,2026-10-15,12:55:33,880,debit,UPI,Shopping,Clothing,,,sms,2026-10-15 12:59:33
+TXN-D380FAF07711,user_001,2026-10-15,13:15:54,117,debit,netbanking,Transportation,Metro,,,card,2026-10-15 15:15:54
+TXN-CC841A4A900D,user_001,2026-10-15,14:30:00,1299,credit,UPI,Refunds,Refunds,Amazon,,sms,2026-10-15 14:45:00
+TXN-511AD78FCB21,user_002,2026-10-15,16:00:32,1317,debit,cash,Food & Dining,Street Food,,,cash,2026-10-16 13:00:32
+TXN-D4B7B731BBA6,user_005,2026-10-15,16:57:21,243,debit,card,Shopping,Online Shopping,Meesho,,sms,2026-10-15 17:23:21
+TXN-6A260CCD4F54,user_002,2026-10-15,17:00:14,499,debit,auto-debit,Subscriptions,Streaming,Hotstar,,bank,2026-10-15 19:00:14
+TXN-2750CC588756,user_003,2026-10-15,17:13:20,132,debit,auto-debit,Transportation,Metro,,,email,2026-10-16 06:13:20
+TXN-80E142022CBB,user_004,2026-10-15,17:33:28,1239,debit,card,Bills,Internet,,,card,2026-10-15 20:33:28
+TXN-F859806FEC89,user_001,2026-10-15,18:53:31,1476,debit,UPI,Groceries,Online Grocery,Swiggy Instamart,,sms,2026-10-15 19:13:31
+TXN-7A2962BE38CB,user_001,2026-10-15,20:08:24,287,debit,UPI,Groceries,Vegetables & Fruits,,,bank,2026-10-15 23:08:24
+TXN-7462C5E89D5D,user_005,2026-10-15,20:31:00,1221,debit,card,Sports,Sports,,,card,2026-10-15 20:31:00
+TXN-F8FC9296B685,user_003,2026-10-15,21:06:33,758,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-10-15 21:31:33
+TXN-CADCB511BF1B,user_002,2026-10-15,21:54:22,2999,debit,netbanking,Entertainment,Events,,,email,2026-10-17 03:54:22
+TXN-7F57088B57F1,user_003,2026-10-16,08:17:07,1846,debit,UPI,Groceries,Vegetables & Fruits,,,sms,2026-10-16 08:18:07
+TXN-2B97B2C4F8CB,user_002,2026-10-16,08:48:15,1214,debit,netbanking,Food & Dining,Cafes,Third Wave Coffee,,card,2026-10-16 08:48:15
+TXN-24CFACBF5B27,user_001,2026-10-16,10:07:54,174,debit,cash,Shopping,Accessories,,,cash,2026-10-17 00:07:54
+TXN-2C77FF03B976,user_002,2026-10-16,18:41:31,1735,debit,netbanking,Transportation,Bus Pass,,,card,2026-10-16 20:41:31
+TXN-8FB6C59AAB20,user_005,2026-10-16,19:42:28,199,debit,auto-debit,Subscriptions,News,,,email,2026-10-17 05:42:28
+TXN-02DA360EC7E6,user_003,2026-10-17,06:27:25,246,debit,UPI,Food & Dining,Street Food,,,sms,2026-10-17 06:33:25
+TXN-05B60DA65AF7,user_005,2026-10-17,07:34:38,902,debit,auto-debit,Travel,Train,IRCTC,,email,2026-10-18 04:34:38
+TXN-29D090E3D636,user_005,2026-10-17,08:59:34,2395,debit,card,Shopping,Online Shopping,Flipkart,,card,2026-10-17 09:59:34
+TXN-9E0EC72288BF,user_003,2026-10-17,10:09:45,1892,debit,netbanking,Bills,Electricity,MSEDCL,,cash,2026-10-17 19:09:45
+TXN-DE322B929E72,user_002,2026-10-17,10:10:53,2831,debit,netbanking,Shopping,Home Decor,,,cash,2026-10-18 07:10:53
+TXN-4440059D32DE,user_005,2026-10-17,11:02:42,1646,debit,card,Entertainment,Gaming,,,sms,2026-10-17 11:31:42
+TXN-B1B1F1A957FD,user_002,2026-10-17,11:45:14,3097,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-17 16:45:14
+TXN-C2B5FD7233BE,user_005,2026-10-17,17:05:12,799,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-10-17 21:05:12
+TXN-79910D3E7BAA,user_005,2026-10-17,18:36:40,2705,debit,UPI,Shopping,Accessories,,,bank,2026-10-18 00:36:40
+TXN-B9C5B290E72B,user_001,2026-10-17,19:13:04,201,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-10-18 01:13:04
+TXN-A051BACBB9CD,user_003,2026-10-17,21:34:28,783,debit,netbanking,Bills,Water,,,cash,2026-10-17 22:34:28
+TXN-FEBE82376C97,user_005,2026-10-18,03:33:20,498,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-10-18 03:46:20
+TXN-9B25860579CF,user_003,2026-10-18,07:51:58,1947,debit,auto-debit,Entertainment,Movies,,,bank,2026-10-18 12:51:58
+TXN-76F7247DB41A,user_005,2026-10-18,10:11:16,466,debit,auto-debit,Entertainment,Movies,,,bank,2026-10-18 16:11:16
+TXN-B86E9D9F4A0A,user_002,2026-10-18,10:18:29,1802,debit,netbanking,Entertainment,Events,,,sms,2026-10-18 10:46:29
+TXN-EB621F55C529,user_003,2026-10-18,10:52:12,1866,debit,auto-debit,Personal Care,Grooming,,,email,2026-10-20 08:52:12
+TXN-CBE0D54D4570,user_002,2026-10-18,14:55:43,847,debit,card,Food & Dining,Food Delivery,Swiggy,,card,2026-10-18 17:55:43
+TXN-68197987BA0C,user_005,2026-10-18,17:20:11,1728,debit,card,Food & Dining,Cafes,Chai Point,,card,2026-10-18 17:20:11
+TXN-32D09FF9D715,user_002,2026-10-18,18:14:22,381,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-10-18 18:22:22
+TXN-4942C34999C0,user_001,2026-10-18,19:07:42,316,debit,auto-debit,Personal Care,Salon,,,email,2026-10-18 21:07:42
+TXN-4B2EC627187C,user_001,2026-10-18,19:38:00,1715,debit,netbanking,Food & Dining,Restaurants,Dominos,,card,2026-10-18 21:38:00
+TXN-A28B296036CD,user_002,2026-10-18,23:21:26,301,debit,card,Shopping,Home Decor,,,card,2026-10-19 03:21:26
+TXN-14C6ED5890B4,user_003,2026-10-19,08:57:39,1967,debit,card,Shopping,Home Decor,,,card,2026-10-19 10:57:39
+TXN-A058521F0518,user_001,2026-10-19,10:08:47,1255,debit,UPI,Groceries,Supermarket,More Supermarket,,bank,2026-10-19 13:08:47
+TXN-F4550D6ADA13,user_002,2026-10-19,12:30:24,610,debit,card,Shopping,Online Shopping,Meesho,,sms,2026-10-19 12:31:24
+TXN-1383FB912CBD,user_003,2026-10-19,13:01:04,791,debit,netbanking,Hospitals & Pharmacy,Medicines,,,sms,2026-10-19 13:17:04
+TXN-BEF83FFD040A,user_002,2026-10-19,14:40:11,1375,debit,card,Electronics,Electronics,,,card,2026-10-19 16:40:11
+TXN-BB822814823D,user_005,2026-10-19,14:48:32,889,debit,card,Fitness & Wellness,Fitness & Wellness,,,card,2026-10-19 17:48:32
+TXN-1B3336DF7B8A,user_002,2026-10-19,19:10:36,1931,debit,netbanking,Entertainment,Movies,,,card,2026-10-19 20:10:36
+TXN-A578BA1A481F,user_002,2026-10-19,19:33:12,3072,debit,UPI,Food & Dining,Restaurants,Haldirams,,sms,2026-10-19 19:34:12
+TXN-EE9FA22D8A0C,user_005,2026-10-19,21:16:24,1370,debit,card,Entertainment,Movies,,,sms,2026-10-19 21:43:24
+TXN-13DAD4A6D2AE,user_004,2026-10-20,00:15:12,1314,debit,netbanking,Groceries,Supermarket,More Supermarket,,email,2026-10-20 08:15:12
+TXN-E73E478B7A81,user_005,2026-10-20,06:01:26,1963,debit,auto-debit,Entertainment,Events,,,email,2026-10-21 23:01:26
+TXN-105C02B07D56,user_002,2026-10-20,08:24:32,1006,debit,netbanking,Entertainment,OTT Subscription,,,sms,2026-10-20 08:43:32
+TXN-4B123FFFCA54,user_005,2026-10-20,10:35:41,1162,debit,auto-debit,Entertainment,Movies,,,bank,2026-10-20 16:35:41
+TXN-067A7FB10713,user_001,2026-10-20,13:01:03,1539,debit,auto-debit,Education,Courses,,,email,2026-10-21 20:01:03
+TXN-B8F71F8D14B5,user_002,2026-10-20,13:43:08,555,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-10-20 13:54:08
+TXN-A8F659843584,user_002,2026-10-20,16:10:07,3058,debit,card,Food & Dining,Restaurants,Dominos,,card,2026-10-20 18:10:07
+TXN-6E9CDA1F5578,user_001,2026-10-20,17:28:32,968,debit,netbanking,Shopping,Home Decor,,,cash,2026-10-21 00:28:32
+TXN-A3CAFABAF04C,user_005,2026-10-20,19:09:23,1886,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-20 23:09:23
+TXN-9A7977D7E9ED,user_002,2026-10-20,21:58:51,1551,debit,card,Electronics,Electronics,,,card,2026-10-21 00:58:51
+TXN-5DC65387D4F6,user_005,2026-10-21,05:47:34,2649,debit,card,Entertainment,Events,,,sms,2026-10-21 06:06:34
+TXN-7963C741A7C6,user_005,2026-10-21,05:52:29,799,debit,auto-debit,Subscriptions,Music,,,email,2026-10-22 21:52:29
+TXN-6003E213DAB9,user_005,2026-10-21,10:16:53,62,debit,UPI,Entertainment,OTT Subscription,,,sms,2026-10-21 10:38:53
+TXN-6ACD5AEED980,user_002,2026-10-21,10:50:06,1795,debit,auto-debit,Food & Dining,Restaurants,Barbeque Nation,,bank,2026-10-21 13:50:06
+TXN-F9A73917BAF7,user_002,2026-10-21,12:06:42,2927,debit,UPI,Entertainment,OTT Subscription,,,sms,2026-10-21 12:23:42
+TXN-F50191BD1EC8,user_002,2026-10-21,12:35:16,956,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-10-21 12:51:16
+TXN-8ED7FBFAA485,user_001,2026-10-21,12:38:33,1328,debit,auto-debit,Food & Dining,Cafes,Chai Point,,email,2026-10-22 07:38:33
+TXN-CFA2760FDDFB,user_004,2026-10-21,13:40:42,799,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-10-21 14:40:42
+TXN-89D9B5CC6111,user_004,2026-10-21,14:10:42,1123,debit,card,Bills,Water,,,sms,2026-10-21 14:40:42
+TXN-123C94514D66,user_002,2026-10-21,17:38:03,2702,debit,netbanking,Transportation,Metro,,,cash,2026-10-22 14:38:03
+TXN-E7D4693F7D88,user_001,2026-10-21,20:41:56,931,debit,UPI,Transportation,Bus Pass,,,bank,2026-10-22 02:41:56
+TXN-E94E80CFA624,user_001,2026-10-21,21:20:38,301,debit,card,Transportation,Auto / Cab,Rapido,,card,2026-10-21 22:20:38
+TXN-1F6B79FD0A8A,user_002,2026-10-22,11:00:00,2898,debit,cash,Shopping,Clothing,,,cash,2026-10-23 08:00:00
+TXN-38708A375D77,user_001,2026-10-22,11:09:43,924,debit,netbanking,Shopping,Accessories,,,sms,2026-10-22 11:39:43
+TXN-4AE9FAD9EB17,user_001,2026-10-22,11:29:25,974,debit,card,Personal Care,Skincare,,,sms,2026-10-22 11:43:25
+TXN-0E39D5D937B0,user_003,2026-10-22,12:45:50,2393,debit,card,Groceries,Vegetables & Fruits,,,card,2026-10-22 12:45:50
+TXN-9235F1419A76,user_002,2026-10-22,18:18:10,3485,debit,card,Food & Dining,Cafes,Chai Point,,sms,2026-10-22 18:20:10
+TXN-63FD831495A6,user_001,2026-10-23,11:42:48,725,debit,UPI,Hospitals & Pharmacy,Lab Tests,,,sms,2026-10-23 11:56:48
+TXN-4788B4E9F543,user_002,2026-10-23,18:06:57,690,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-23 20:06:57
+TXN-DD3BE64D6178,user_001,2026-10-23,19:35:03,245,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-10-23 19:54:03
+TXN-0EBE84DFDCF7,user_002,2026-10-24,05:52:11,1161,debit,cash,Shopping,Accessories,,,cash,2026-10-24 06:52:11
+TXN-34DAA536658D,user_001,2026-10-24,07:32:13,1279,debit,netbanking,Shopping,Accessories,,,sms,2026-10-24 07:37:13
+TXN-46C32E5114C0,user_003,2026-10-24,09:15:35,1681,debit,auto-debit,Entertainment,Gaming,,,email,2026-10-24 20:15:35
+TXN-D9008E0815AE,user_005,2026-10-24,10:42:20,2958,debit,cash,Sports,Sports,,,cash,2026-10-24 20:42:20
+TXN-EE13D9509E64,user_005,2026-10-24,17:00:57,125,debit,card,Entertainment,Events,,,card,2026-10-24 17:00:57
+TXN-FB9CA0881639,user_001,2026-10-24,17:42:53,1703,debit,auto-debit,Groceries,Supermarket,More Supermarket,,bank,2026-10-24 22:42:53
+TXN-3E431A474456,user_005,2026-10-24,17:51:20,499,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-10-24 22:51:20
+TXN-F8584A198F83,user_002,2026-10-24,19:06:54,3363,debit,netbanking,Groceries,Vegetables & Fruits,,,email,2026-10-24 22:06:54
+TXN-553CE96BBF43,user_005,2026-10-24,19:34:05,2336,debit,cash,Groceries,Vegetables & Fruits,,,cash,2026-10-25 15:34:05
+TXN-709804671451,user_001,2026-10-24,20:23:07,1785,debit,UPI,Shopping,Clothing,,,sms,2026-10-24 20:48:07
+TXN-ABB82D4F9726,user_002,2026-10-24,21:39:17,2797,debit,netbanking,Food & Dining,Restaurants,Dominos,,sms,2026-10-24 22:08:17
+TXN-3860D49B1477,user_002,2026-10-25,08:26:28,2058,debit,cash,Entertainment,OTT Subscription,,,cash,2026-10-25 09:26:28
+TXN-62FA6A49DBB1,user_001,2026-10-25,09:09:36,1937,debit,netbanking,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-10-25 14:09:36
+TXN-4CAC95191C87,user_002,2026-10-25,09:24:49,356,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-10-25 09:36:49
+TXN-6D4E16E8C18C,user_002,2026-10-25,12:29:17,829,debit,cash,Food & Dining,Cafes,Starbucks,,cash,2026-10-26 00:29:17
+TXN-922C96F773C8,user_005,2026-10-25,13:59:12,2915,debit,UPI,Entertainment,OTT Subscription,,,bank,2026-10-25 16:59:12
+TXN-E0FFEEBB249F,user_005,2026-10-25,14:45:45,2082,debit,UPI,Groceries,Supermarket,More Supermarket,,sms,2026-10-25 15:05:45
+TXN-48B54E6F265B,user_002,2026-10-25,17:51:10,3356,debit,cash,Entertainment,Gaming,,,cash,2026-10-25 20:51:10
+TXN-9CFCEB547284,user_003,2026-10-25,19:27:36,892,debit,auto-debit,Groceries,Vegetables & Fruits,,,email,2026-10-26 17:27:36
+TXN-5EBAD5785BF1,user_005,2026-10-25,20:00:00,1570,debit,UPI,Friends & Family,Friends & Family,,Ravi,sms,2026-10-25 20:15:00
+TXN-5F35C70E9BDF,user_005,2026-10-25,20:00:00,1812,debit,UPI,Friends & Family,Friends & Family,,Priya,sms,2026-10-25 20:15:00
+TXN-983473152A6A,user_005,2026-10-25,20:40:19,437,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-10-26 02:40:19
+TXN-392CA47F874A,user_005,2026-10-25,22:24:52,2813,debit,UPI,Shopping,Home Decor,,,sms,2026-10-25 22:44:52
+TXN-47409234B12F,user_001,2026-10-26,13:10:23,243,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-10-26 13:20:23
+TXN-653388CE0456,user_005,2026-10-26,16:31:10,514,debit,cash,Food & Dining,Street Food,,,cash,2026-10-27 09:31:10
+TXN-7A4A5C849A34,user_002,2026-10-26,22:42:55,2965,debit,auto-debit,Entertainment,Movies,,,bank,2026-10-27 00:42:55
+TXN-F0F811FC7A90,user_001,2026-10-27,08:39:03,1859,debit,UPI,Entertainment,Movies,,,bank,2026-10-27 13:39:03
+TXN-3D4AD53EFA58,user_002,2026-10-27,11:43:41,1852,debit,card,Entertainment,Movies,,,sms,2026-10-27 11:56:41
+TXN-AD091F47FB77,user_001,2026-10-27,14:28:26,1405,debit,cash,Food & Dining,Street Food,,,cash,2026-10-27 22:28:26
+TXN-0DB61F0901F1,user_002,2026-10-27,16:24:25,1219,debit,auto-debit,Food & Dining,Cafes,Starbucks,,bank,2026-10-27 22:24:25
+TXN-2B4F82E8A6F3,user_005,2026-10-27,19:08:16,2855,debit,UPI,Groceries,Online Grocery,Blinkit,,bank,2026-10-27 23:08:16
+TXN-4408ACDD8DF4,user_004,2026-10-27,19:31:32,243,debit,UPI,Shopping,Online Shopping,Amazon,,bank,2026-10-27 19:31:32
+TXN-4D6D40329EE0,user_002,2026-10-27,20:04:48,908,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-10-27 20:20:48
+TXN-497E5D71AA35,user_002,2026-10-28,04:35:00,1732,debit,cash,Entertainment,Movies,,,cash,2026-10-28 06:35:00
+TXN-B74CD6042741,user_003,2026-10-28,11:06:52,508,debit,cash,Food & Dining,Street Food,,,cash,2026-10-29 01:06:52
+TXN-8241CB9C3ABD,user_002,2026-10-28,13:07:31,440,debit,cash,Shopping,Home Decor,,,cash,2026-10-29 12:07:31
+TXN-650E0F931662,user_001,2026-10-28,18:37:31,930,debit,UPI,Transportation,Metro,,,sms,2026-10-28 18:54:31
+TXN-C2AB9E35E985,user_005,2026-10-28,18:56:29,845,debit,UPI,Fitness & Wellness,Fitness & Wellness,,,sms,2026-10-28 18:57:29
+TXN-BEDB04BAE64F,user_005,2026-10-28,19:56:46,2089,debit,netbanking,Groceries,Vegetables & Fruits,,,cash,2026-10-29 02:56:46
+TXN-CD0A0CB9CD03,user_005,2026-10-28,20:26:17,1383,debit,cash,Sports,Sports,,,cash,2026-10-28 23:26:17
+TXN-91F97F5944BC,user_002,2026-10-29,07:39:12,2096,debit,cash,Food & Dining,Restaurants,Dominos,,cash,2026-10-29 13:39:12
+TXN-08F30400A13B,user_001,2026-10-29,09:13:49,1277,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-29 10:13:49
+TXN-D2A12A70C4A3,user_001,2026-10-29,14:27:11,721,debit,UPI,Entertainment,Events,,,bank,2026-10-29 15:27:11
+TXN-ADF4D1B65ADD,user_002,2026-10-29,15:23:44,88,debit,netbanking,Food & Dining,Restaurants,Haldirams,,sms,2026-10-29 15:27:44
+TXN-CBF10E6CBD36,user_002,2026-10-29,18:23:45,482,debit,card,Transportation,Auto / Cab,Uber,,sms,2026-10-29 18:38:45
+TXN-8AD52BBB1EEC,user_002,2026-10-29,18:29:21,799,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-10-29 20:29:21
+TXN-106F475C5479,user_005,2026-10-30,09:05:56,81,debit,cash,Shopping,Accessories,,,cash,2026-10-31 03:05:56
+TXN-5DB29544B118,user_005,2026-10-30,13:01:37,174,debit,cash,Entertainment,Movies,,,cash,2026-10-31 09:01:37
+TXN-CD10113797ED,user_002,2026-10-30,13:37:32,584,debit,cash,Transportation,Bus Pass,,,cash,2026-10-30 17:37:32
+TXN-344DD521839C,user_003,2026-10-30,17:03:05,760,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-10-30 17:10:05
+TXN-39E53BAD2B6E,user_002,2026-10-30,19:02:59,1952,debit,netbanking,Groceries,Supermarket,DMart,,bank,2026-10-31 00:02:59
+TXN-418E98180119,user_001,2026-10-30,20:02:27,197,debit,cash,Shopping,Accessories,,,cash,2026-10-30 20:02:27
+TXN-E282B0283839,user_005,2026-10-30,21:12:10,499,debit,auto-debit,Subscriptions,News,,,bank,2026-10-30 23:12:10
+TXN-9A381694C700,user_005,2026-10-31,09:21:53,149,debit,auto-debit,Subscriptions,News,,,email,2026-10-31 13:21:53
+TXN-9B1B67BDF8DC,user_002,2026-10-31,12:38:58,2144,debit,cash,Entertainment,Events,,,cash,2026-11-01 10:38:58
+TXN-E6ABF8588CC5,user_002,2026-10-31,13:08:08,1709,debit,netbanking,Transportation,Metro,,,sms,2026-10-31 13:22:08
+TXN-8FEE07B06FF3,user_003,2026-10-31,13:18:24,40,debit,card,Personal Care,Grooming,,,card,2026-10-31 17:18:24
+TXN-EB3A22F74870,user_005,2026-10-31,13:29:50,1014,debit,auto-debit,Shopping,Home Decor,,,bank,2026-10-31 16:29:50
+TXN-39D57344A15A,user_005,2026-10-31,16:18:54,329,debit,UPI,Food & Dining,Street Food,,,bank,2026-10-31 19:18:54
+TXN-DCDD50A8585C,user_001,2026-10-31,18:26:18,1229,debit,auto-debit,Food & Dining,Cafes,Third Wave Coffee,,email,2026-11-01 02:26:18
+TXN-3EDAF4F11D0A,user_002,2026-10-31,18:59:35,2953,debit,auto-debit,Entertainment,Events,,,email,2026-11-02 11:59:35
+TXN-D3C7A6D60A47,user_005,2026-10-31,19:03:58,184,debit,card,Food & Dining,Food Delivery,Zomato,,card,2026-10-31 22:03:58
+TXN-8E8DED06DE71,user_002,2026-10-31,19:08:06,693,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-10-31 22:08:06
+TXN-51AF9318B199,user_005,2026-10-31,19:40:28,149,debit,auto-debit,Subscriptions,News,,,email,2026-11-02 09:40:28
+TXN-997F94ACF759,user_001,2026-10-31,20:58:23,401,debit,auto-debit,Transportation,Metro,,,email,2026-11-01 02:58:23
+TXN-D1B8AAECF875,user_002,2026-10-31,22:41:11,2636,debit,netbanking,Food & Dining,Restaurants,Haldirams,,card,2026-11-01 02:41:11
+TXN-6D0602620FB5,user_002,2026-11-01,03:09:03,1810,debit,auto-debit,Food & Dining,Cafes,Starbucks,,bank,2026-11-01 08:09:03
+TXN-68CDC8FFE990,user_002,2026-11-01,08:03:44,3152,debit,netbanking,Food & Dining,Cafes,Starbucks,,sms,2026-11-01 08:29:44
+TXN-20E348513BAB,user_005,2026-11-01,08:37:27,623,debit,UPI,Shopping,Clothing,,,bank,2026-11-01 12:37:27
+TXN-F00D29679827,user_001,2026-11-01,09:00:00,65000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-11-01 09:00:00
+TXN-6DC84CDC6CC6,user_002,2026-11-01,09:00:00,55000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-11-01 09:00:00
+TXN-06845EABD837,user_003,2026-11-01,09:00:00,48000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-11-01 09:00:00
+TXN-173DE8A05ECA,user_005,2026-11-01,09:00:00,72000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-11-01 09:00:00
+TXN-B213B3204C30,user_004,2026-11-01,09:30:00,35000,credit,netbanking,Salary & Allowances,Salary,,,bank,2026-11-01 09:30:00
+TXN-374CBCB6805A,user_005,2026-11-01,10:21:18,1334,debit,card,Travel,Train,IRCTC,,sms,2026-11-01 10:33:18
+TXN-DA338EC8BF09,user_005,2026-11-01,11:30:46,757,debit,UPI,Food & Dining,Food Delivery,Swiggy,,sms,2026-11-01 11:50:46
+TXN-91A96AA540E4,user_001,2026-11-01,12:00:00,150,credit,UPI,Cashback & Rewards,Cashback & Rewards,Paytm,,sms,2026-11-01 12:10:00
+TXN-88A15E04AE95,user_005,2026-11-01,12:12:12,2939,debit,card,Travel,Hotels,,,card,2026-11-01 13:12:12
+TXN-E6365A25986C,user_002,2026-11-01,14:36:42,3196,debit,netbanking,Entertainment,Movies,,,cash,2026-11-02 12:36:42
+TXN-FD28BBB3954E,user_001,2026-11-01,15:25:55,1256,debit,cash,Food & Dining,Street Food,,,cash,2026-11-02 00:25:55
+TXN-6034E75F9C79,user_005,2026-11-01,15:37:12,2726,debit,UPI,Transportation,Metro,,,sms,2026-11-01 15:41:12
+TXN-8DB30F215422,user_001,2026-11-02,07:16:12,1719,debit,card,Hospitals & Pharmacy,Lab Tests,,,card,2026-11-02 08:16:12
+TXN-AA49A5613B58,user_004,2026-11-02,07:47:26,255,debit,netbanking,Personal Care,Salon,,,card,2026-11-02 08:47:26
+TXN-99801D7E6625,user_005,2026-11-02,11:06:29,2583,debit,netbanking,Transportation,Metro,,,email,2026-11-02 14:06:29
+TXN-8C1C6033F99C,user_002,2026-11-02,12:50:43,2918,debit,UPI,Shopping,Accessories,,,sms,2026-11-02 13:01:43
+TXN-A26A9237BC5F,user_005,2026-11-02,17:21:54,2905,debit,cash,Entertainment,Gaming,,,cash,2026-11-03 11:21:54
+TXN-5204BF988D42,user_002,2026-11-02,19:35:24,233,debit,UPI,Transportation,Auto / Cab,Uber,,bank,2026-11-02 20:35:24
+TXN-CCBDD1316D41,user_001,2026-11-02,21:22:22,206,debit,auto-debit,Food & Dining,Restaurants,Barbeque Nation,,bank,2026-11-03 02:22:22
+TXN-92CCF50953FD,user_002,2026-11-03,12:35:16,427,debit,card,Food & Dining,Food Delivery,Swiggy,,card,2026-11-03 13:35:16
+TXN-CBE51B58E9E0,user_005,2026-11-03,12:52:00,499,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-11-03 14:52:00
+TXN-B5D92A550899,user_001,2026-11-03,13:36:48,412,debit,cash,Entertainment,Movies,,,cash,2026-11-04 07:36:48
+TXN-19E36D78240E,user_002,2026-11-03,14:36:35,616,debit,auto-debit,Bills,Mobile Recharge,Vi,,email,2026-11-04 13:36:35
+TXN-2C5C1331B8D7,user_003,2026-11-03,16:39:32,1287,debit,card,Groceries,Online Grocery,Swiggy Instamart,,card,2026-11-03 19:39:32
+TXN-7A734BA120EE,user_005,2026-11-03,17:15:30,2899,debit,card,Sports,Sports,,,sms,2026-11-03 17:39:30
+TXN-E4FD77B486C9,user_002,2026-11-03,18:09:02,103,debit,cash,Food & Dining,Cafes,Third Wave Coffee,,cash,2026-11-03 22:09:02
+TXN-7CB0DF077C9B,user_002,2026-11-03,19:12:18,3172,debit,auto-debit,Entertainment,Events,,,bank,2026-11-03 22:12:18
+TXN-3D67829DC461,user_001,2026-11-03,20:40:20,1366,debit,auto-debit,Transportation,Bus Pass,,,email,2026-11-04 06:40:20
+TXN-DA980DA6164C,user_002,2026-11-03,20:58:40,911,debit,cash,Food & Dining,Cafes,Chai Point,,cash,2026-11-04 18:58:40
+TXN-0A12F63FC687,user_003,2026-11-04,00:35:52,1552,debit,auto-debit,Personal Care,Salon,,,bank,2026-11-04 02:35:52
+TXN-1CBA4B1BBB7E,user_001,2026-11-04,06:32:04,670,debit,netbanking,Transportation,Bus Pass,,,cash,2026-11-04 15:32:04
+TXN-4B48B62F0B76,user_003,2026-11-04,15:42:11,1602,debit,cash,Transportation,Metro,,,cash,2026-11-05 06:42:11
+TXN-33BDD60527B5,user_003,2026-11-04,18:25:40,167,debit,cash,Food & Dining,Cafes,Starbucks,,cash,2026-11-05 04:25:40
+TXN-88217686CD9E,user_002,2026-11-04,19:10:26,833,debit,auto-debit,Entertainment,OTT Subscription,,,bank,2026-11-04 23:10:26
+TXN-F74ACF2E20C2,user_005,2026-11-05,05:01:12,198,debit,UPI,Transportation,Auto / Cab,Uber,,sms,2026-11-05 05:08:12
+TXN-47839041DFA9,user_001,2026-11-05,10:00:00,12000,debit,netbanking,Rent,Rent,,,bank,2026-11-05 10:30:00
+TXN-43A30FA584A2,user_002,2026-11-05,10:00:00,15000,debit,netbanking,Rent,Rent,,,bank,2026-11-05 10:30:00
+TXN-E1F8B8D17DE7,user_003,2026-11-05,10:00:00,10000,debit,netbanking,Rent,Rent,,,bank,2026-11-05 10:30:00
+TXN-79DF3099CAE9,user_005,2026-11-05,10:00:00,14000,debit,netbanking,Rent,Rent,,,bank,2026-11-05 10:30:00
+TXN-E78C82AF8983,user_002,2026-11-05,10:48:39,953,debit,netbanking,Food & Dining,Restaurants,Haldirams,,sms,2026-11-05 11:05:39
+TXN-810F47E627CB,user_002,2026-11-05,15:18:01,640,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-11-05 15:48:01
+TXN-3FEB4B8306AB,user_001,2026-11-05,17:32:09,3884,debit,card,Bills,Electricity,MSEDCL,,sms,2026-11-05 17:34:09
+TXN-76AA9E122942,user_001,2026-11-05,17:32:24,1753,debit,UPI,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-11-05 20:32:24
+TXN-B3D1827638E1,user_002,2026-11-05,19:30:00,2500,debit,UPI,Uncategorized,,,,sms,2026-11-05 19:45:00
+TXN-DCCE458FE71D,user_002,2026-11-05,21:39:58,549,debit,card,Shopping,Online Shopping,Myntra,,card,2026-11-06 01:39:58
+TXN-882F61726649,user_003,2026-11-05,23:42:08,3617,debit,card,Bills,Gas,,,sms,2026-11-05 23:47:08
+TXN-632B46E7C7B6,user_001,2026-11-06,05:45:28,149,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-11-06 08:45:28
+TXN-71ACD9F4E798,user_005,2026-11-06,10:12:01,773,debit,netbanking,Entertainment,Events,,,cash,2026-11-06 15:12:01
+TXN-9CC091D6B7E8,user_002,2026-11-06,14:18:57,3368,debit,auto-debit,Transportation,Bus Pass,,,email,2026-11-08 08:18:57
+TXN-48096904EE8F,user_002,2026-11-06,17:04:47,922,debit,auto-debit,Entertainment,Movies,,,email,2026-11-08 13:04:47
+TXN-22611ACF182A,user_002,2026-11-06,18:49:13,421,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-11-07 00:49:13
+TXN-E61D51EAA7F3,user_001,2026-11-06,21:24:26,375,debit,netbanking,Transportation,Bus Pass,,,sms,2026-11-06 21:49:26
+TXN-D1A6AFA9BFC4,user_002,2026-11-07,06:50:16,235,debit,UPI,Shopping,Accessories,,,bank,2026-11-07 10:50:16
+TXN-7902FF1F55B4,user_003,2026-11-07,08:51:26,1828,debit,UPI,Food & Dining,Street Food,,,bank,2026-11-07 14:51:26
+TXN-6789CD5139B6,user_005,2026-11-07,08:59:08,2972,debit,UPI,Travel,Bus,,,bank,2026-11-07 14:59:08
+TXN-6E6F872CD570,user_005,2026-11-07,10:27:40,2904,debit,cash,Food & Dining,Street Food,,,cash,2026-11-07 17:27:40
+TXN-FF7CE63A5831,user_005,2026-11-07,11:03:40,2253,debit,netbanking,Sports,Sports,,,card,2026-11-07 13:03:40
+TXN-B1416BAB2F06,user_004,2026-11-07,11:29:46,394,debit,cash,Food & Dining,Street Food,,,cash,2026-11-07 17:29:46
+TXN-588AF9C96E67,user_002,2026-11-07,13:25:27,1139,debit,cash,Food & Dining,Restaurants,Local Restaurant,,cash,2026-11-07 23:25:27
+TXN-71D4BFB2BF96,user_003,2026-11-07,14:35:52,776,debit,cash,Shopping,Home Decor,,,cash,2026-11-08 04:35:52
+TXN-4CB6C82DFE0C,user_001,2026-11-07,16:24:18,739,debit,netbanking,Bills,Gas,,,bank,2026-11-07 18:24:18
+TXN-45EF5F8107E4,user_005,2026-11-07,18:56:07,2834,debit,card,Sports,Sports,,,sms,2026-11-07 19:07:07
+TXN-4597C0570BA4,user_005,2026-11-07,19:42:10,1928,debit,card,Sports,Sports,,,sms,2026-11-07 19:59:10
+TXN-27DF8F12767A,user_005,2026-11-08,08:05:18,1102,debit,auto-debit,Transportation,Metro,,,bank,2026-11-08 11:05:18
+TXN-B66AB2130098,user_005,2026-11-08,09:27:56,891,debit,card,Food & Dining,Restaurants,Local Restaurant,,sms,2026-11-08 09:40:56
+TXN-638BF399C1BF,user_005,2026-11-08,09:45:23,2102,debit,auto-debit,Shopping,Accessories,,,email,2026-11-09 19:45:23
+TXN-205E600971C0,user_001,2026-11-08,16:41:50,1268,debit,UPI,Shopping,Clothing,,,sms,2026-11-08 16:52:50
+TXN-852B9A2D497E,user_005,2026-11-08,17:50:37,2086,debit,card,Groceries,Online Grocery,Swiggy Instamart,,sms,2026-11-08 18:11:37
+TXN-2A81EED094CD,user_002,2026-11-08,19:37:02,2707,debit,auto-debit,Entertainment,Movies,,,bank,2026-11-09 00:37:02
+TXN-763C2B89F473,user_005,2026-11-08,19:39:04,917,debit,UPI,Fitness & Wellness,Fitness & Wellness,,,sms,2026-11-08 19:45:04
+TXN-CDFCBC3EA785,user_003,2026-11-08,20:15:45,70,debit,auto-debit,Groceries,Vegetables & Fruits,,,email,2026-11-10 05:15:45
+TXN-8CEB60488AB9,user_001,2026-11-08,21:19:41,732,debit,UPI,Shopping,Clothing,,,bank,2026-11-09 02:19:41
+TXN-7B6F12DFF51B,user_005,2026-11-09,03:28:14,1358,debit,netbanking,Entertainment,Gaming,,,email,2026-11-09 20:28:14
+TXN-382A1DE35AD5,user_004,2026-11-09,07:29:29,95,debit,netbanking,Food & Dining,Restaurants,Barbeque Nation,,card,2026-11-09 10:29:29
+TXN-169F5185A243,user_001,2026-11-09,08:18:54,443,debit,card,Education,Books,,,card,2026-11-09 08:18:54
+TXN-80A6B35B84F4,user_002,2026-11-09,09:47:57,2280,debit,UPI,Food & Dining,Street Food,,,sms,2026-11-09 10:11:57
+TXN-434E5B171124,user_001,2026-11-09,11:11:13,1373,debit,card,Shopping,Online Shopping,Meesho,,card,2026-11-09 13:11:13
+TXN-0131CA11A523,user_005,2026-11-09,12:29:27,1965,debit,auto-debit,Entertainment,Movies,,,email,2026-11-10 15:29:27
+TXN-DCB2CC896773,user_002,2026-11-09,16:35:09,1300,debit,netbanking,Shopping,Clothing,,,bank,2026-11-09 16:35:09
+TXN-F6E2C37B551D,user_003,2026-11-09,16:45:23,1543,debit,UPI,Hospitals & Pharmacy,Lab Tests,,,bank,2026-11-09 16:45:23
+TXN-391956DDC064,user_001,2026-11-09,18:56:49,1760,debit,auto-debit,Transportation,Bus Pass,,,bank,2026-11-09 22:56:49
+TXN-32DC8FFDD0D5,user_002,2026-11-09,19:28:24,1055,debit,UPI,Food & Dining,Food Delivery,Zomato,,sms,2026-11-09 19:41:24
+TXN-A3700F5724E8,user_004,2026-11-09,19:40:39,480,debit,auto-debit,Food & Dining,Cafes,Third Wave Coffee,,bank,2026-11-09 20:40:39
+TXN-6E7FAF0053E5,user_002,2026-11-09,19:50:51,292,debit,UPI,Transportation,Auto / Cab,Ola,,bank,2026-11-10 01:50:51
+TXN-2C275E5FEA50,user_001,2026-11-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-11-10 06:15:00
+TXN-54E501688D89,user_001,2026-11-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-11-10 06:15:00
+TXN-2E8E7CCFD0C5,user_002,2026-11-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-11-10 06:15:00
+TXN-F7AA61B44125,user_002,2026-11-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-11-10 06:15:00
+TXN-2EEC31F76F3C,user_002,2026-11-10,06:00:00,299,debit,auto-debit,Subscriptions,Streaming,Hotstar,,bank,2026-11-10 06:15:00
+TXN-D5ADC8E6A7C0,user_002,2026-11-10,06:00:00,179,debit,auto-debit,Subscriptions,Streaming,Amazon Prime,,bank,2026-11-10 06:15:00
+TXN-06D25F86FEA7,user_003,2026-11-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-11-10 06:15:00
+TXN-B45B4A269B6D,user_005,2026-11-10,06:00:00,649,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-11-10 06:15:00
+TXN-F8703A3ECCE6,user_005,2026-11-10,06:00:00,119,debit,auto-debit,Subscriptions,Streaming,Spotify,,bank,2026-11-10 06:15:00
+TXN-8D19244F8836,user_005,2026-11-10,06:00:00,149,debit,auto-debit,Subscriptions,Streaming,YouTube Premium,,bank,2026-11-10 06:15:00
+TXN-260D04FF109B,user_002,2026-11-10,09:11:42,739,debit,card,Food & Dining,Restaurants,Dominos,,sms,2026-11-10 09:37:42
+TXN-E61C8F4B0DA5,user_005,2026-11-10,09:21:16,216,debit,card,Food & Dining,Cafes,Chai Point,,sms,2026-11-10 09:31:16
+TXN-4E4CEB017973,user_003,2026-11-10,13:05:33,621,debit,auto-debit,Education,Courses,,,email,2026-11-12 05:05:33
+TXN-27979D40CD4B,user_003,2026-11-10,17:57:21,359,debit,cash,Food & Dining,Street Food,,,cash,2026-11-11 10:57:21
+TXN-774686DA8EF6,user_001,2026-11-10,18:02:26,420,debit,auto-debit,Groceries,Supermarket,Reliance Fresh,,bank,2026-11-10 20:02:26
+TXN-C4650C0078D2,user_002,2026-11-10,18:16:06,3156,debit,UPI,Shopping,Online Shopping,Meesho,,sms,2026-11-10 18:23:06
+TXN-3780CCB85976,user_005,2026-11-10,19:59:14,1266,debit,auto-debit,Entertainment,Movies,,,bank,2026-11-10 19:59:14
+TXN-CF9A638225FC,user_002,2026-11-11,07:39:04,1542,debit,card,Shopping,Accessories,,,card,2026-11-11 08:39:04
+TXN-BA70BA1733C8,user_002,2026-11-11,10:14:45,1834,debit,UPI,Food & Dining,Cafes,Starbucks,,sms,2026-11-11 10:38:45
+TXN-80B0C98CC472,user_003,2026-11-11,11:51:18,2390,debit,netbanking,Shopping,Home Decor,,,email,2026-11-12 06:51:18
+TXN-9386782ECDE9,user_003,2026-11-11,16:36:03,2348,debit,UPI,Food & Dining,Cafes,Third Wave Coffee,,sms,2026-11-11 16:58:03
+TXN-A4DDA8C9D9AF,user_002,2026-11-11,18:09:36,1424,debit,cash,Food & Dining,Street Food,,,cash,2026-11-12 12:09:36
+TXN-3E375225D2E4,user_001,2026-11-11,19:50:28,1300,debit,cash,Food & Dining,Street Food,,,cash,2026-11-12 02:50:28
+TXN-7112CE4E9E47,user_002,2026-11-11,20:29:28,1552,debit,card,Entertainment,Events,,,sms,2026-11-11 20:41:28
+TXN-9889BCF7D13F,user_005,2026-11-11,20:50:25,94,debit,netbanking,Shopping,Accessories,,,sms,2026-11-11 21:03:25
+TXN-FDA9A68B09C5,user_001,2026-11-11,21:12:23,1706,debit,cash,Transportation,Metro,,,cash,2026-11-12 18:12:23
+TXN-B5F311D69EBE,user_005,2026-11-11,23:48:45,199,debit,auto-debit,Subscriptions,Cloud Storage,,,bank,2026-11-12 04:48:45
+TXN-907BE8A6D3CB,user_003,2026-11-12,07:32:04,1214,debit,cash,Entertainment,Movies,,,cash,2026-11-12 15:32:04
+TXN-C6C844AC56BB,user_005,2026-11-12,09:46:47,499,debit,auto-debit,Subscriptions,Streaming,Hotstar,,email,2026-11-12 23:46:47
+TXN-429F184F9410,user_005,2026-11-12,10:12:27,1949,debit,netbanking,Shopping,Home Decor,,,bank,2026-11-12 16:12:27
+TXN-AEC81DC4499F,user_003,2026-11-12,10:44:15,1869,debit,netbanking,Transportation,Bus Pass,,,card,2026-11-12 13:44:15
+TXN-A3121E7D03DC,user_001,2026-11-12,10:48:10,1782,debit,auto-debit,Education,Exam Fees,,,bank,2026-11-12 12:48:10
+TXN-E589F1F95C17,user_002,2026-11-12,12:57:49,2758,debit,card,Shopping,Home Decor,,,sms,2026-11-12 13:16:49
+TXN-FB3B416D7CC5,user_005,2026-11-12,13:35:01,918,debit,cash,Sports,Sports,,,cash,2026-11-13 00:35:01
+TXN-D74E7F6F84E1,user_002,2026-11-12,14:05:25,628,debit,cash,Entertainment,Events,,,cash,2026-11-13 01:05:25
+TXN-A628960F94D4,user_001,2026-11-12,14:26:10,1625,debit,netbanking,Fitness & Wellness,Fitness & Wellness,,,email,2026-11-13 03:26:10
+TXN-7AC265386271,user_001,2026-11-12,17:55:23,299,debit,auto-debit,Subscriptions,News,,,bank,2026-11-12 21:55:23
+TXN-F5C70D7435E8,user_002,2026-11-12,19:13:58,2157,debit,UPI,Entertainment,Movies,,,sms,2026-11-12 19:15:58
+TXN-505AE9B5C0D2,user_003,2026-11-12,19:38:11,1190,debit,card,Groceries,Online Grocery,Zepto,,card,2026-11-12 23:38:11
+TXN-3FF2B409C700,user_002,2026-11-12,21:12:16,799,debit,card,Shopping,Online Shopping,Amazon,,card,2026-11-12 21:12:16
+TXN-0D5AD00C5DE3,user_002,2026-11-13,13:11:36,3181,debit,auto-debit,Entertainment,OTT Subscription,,,bank,2026-11-13 17:11:36
+TXN-A7A449353780,user_002,2026-11-13,18:33:58,1162,debit,UPI,Shopping,Online Shopping,Myntra,,bank,2026-11-14 00:33:58
+TXN-0156416A569E,user_005,2026-11-13,19:53:22,99,debit,cash,Fitness & Wellness,Fitness & Wellness,,,cash,2026-11-14 05:53:22
+TXN-DA2643948166,user_003,2026-11-13,20:48:26,1444,debit,UPI,Shopping,Online Shopping,Amazon,,bank,2026-11-14 02:48:26
+TXN-F77A1C55A8CE,user_001,2026-11-13,20:59:01,237,debit,card,Transportation,Metro,,,sms,2026-11-13 21:13:01
+TXN-BDD65B34852D,user_002,2026-11-13,21:02:14,3094,debit,cash,Entertainment,OTT Subscription,,,cash,2026-11-14 21:02:14
+TXN-24C31C41574F,user_001,2026-11-14,03:59:06,247,debit,card,Transportation,Auto / Cab,Ola,,card,2026-11-14 05:59:06
+TXN-EAA8B6AD3D1D,user_003,2026-11-14,06:16:48,725,debit,card,Transportation,Bus Pass,,,sms,2026-11-14 06:43:48
+TXN-77352B8F04EC,user_002,2026-11-14,07:33:40,270,debit,UPI,Shopping,Home Decor,,,sms,2026-11-14 08:00:40
+TXN-B948512DC2B9,user_005,2026-11-14,11:01:36,2888,debit,auto-debit,Shopping,Home Decor,,,email,2026-11-14 14:01:36
+TXN-3E85C51272D5,user_002,2026-11-14,11:24:23,2450,debit,auto-debit,Food & Dining,Cafes,Chai Point,,bank,2026-11-14 15:24:23
+TXN-18A0545112A6,user_005,2026-11-14,16:28:40,2004,debit,UPI,Shopping,Clothing,,,sms,2026-11-14 16:57:40
+TXN-B15EC151A3B7,user_005,2026-11-14,22:13:25,1412,debit,auto-debit,Sports,Sports,,,email,2026-11-15 03:13:25
+TXN-12E0E188F349,user_002,2026-11-14,22:14:33,2196,debit,netbanking,Entertainment,Movies,,,email,2026-11-16 00:14:33
+TXN-3E6DE14B8381,user_004,2026-11-15,01:27:47,977,debit,cash,Food & Dining,Street Food,,,cash,2026-11-15 08:27:47
+TXN-CE9B8E3DA732,user_001,2026-11-15,08:18:15,1760,debit,auto-debit,Food & Dining,Restaurants,Dominos,,email,2026-11-16 04:18:15
+TXN-6B38AB2F7F4C,user_005,2026-11-15,08:26:30,1661,debit,UPI,Food & Dining,Street Food,,,bank,2026-11-15 13:26:30
+TXN-9B50347D39B5,user_002,2026-11-15,09:23:38,395,debit,card,Food & Dining,Restaurants,Haldirams,,card,2026-11-15 09:23:38
+TXN-83EC24F48545,user_005,2026-11-15,09:58:24,191,debit,UPI,Food & Dining,Restaurants,Local Restaurant,,bank,2026-11-15 11:58:24
+TXN-C39770F411C1,user_001,2026-11-15,11:00:00,8000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-11-15 11:15:00
+TXN-E2E4C67CC3C2,user_002,2026-11-15,11:00:00,18000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-11-15 11:15:00
+TXN-CB676D6AD062,user_005,2026-11-15,11:00:00,12000,debit,netbanking,Credit Card Payments,Credit Card Payments,,,bank,2026-11-15 11:15:00
+TXN-F2945A7AC3E3,user_001,2026-11-15,13:00:57,1928,debit,card,Food & Dining,Cafes,Third Wave Coffee,,sms,2026-11-15 13:03:57
+TXN-459B20AAF917,user_005,2026-11-15,13:23:33,2761,debit,auto-debit,Entertainment,Events,,,bank,2026-11-15 13:23:33
+TXN-768F2BF6C9DF,user_002,2026-11-15,14:30:30,3402,debit,netbanking,Entertainment,Gaming,,,bank,2026-11-15 15:30:30
+TXN-65AFD822DE6D,user_003,2026-11-15,14:48:59,1990,debit,cash,Food & Dining,Street Food,,,cash,2026-11-16 07:48:59
+TXN-7A01D37FCF49,user_002,2026-11-15,20:00:32,3326,debit,cash,Groceries,Vegetables & Fruits,,,cash,2026-11-16 00:00:32
+TXN-2C53B5F6572E,user_002,2026-11-16,08:37:10,171,debit,card,Entertainment,Gaming,,,card,2026-11-16 09:37:10
+TXN-EF0EA451B775,user_002,2026-11-16,08:59:11,2424,debit,card,Entertainment,Movies,,,card,2026-11-16 12:59:11
+TXN-391E1F280069,user_002,2026-11-16,13:30:55,299,debit,auto-debit,Subscriptions,Streaming,Netflix,,bank,2026-11-16 16:30:55
+TXN-5B09827A607F,user_003,2026-11-16,15:27:00,1983,debit,netbanking,Transportation,Metro,,,card,2026-11-16 17:27:00
+TXN-D18E42339BC1,user_001,2026-11-16,17:01:40,178,debit,UPI,Food & Dining,Street Food,,,sms,2026-11-16 17:18:40
+TXN-69FA0B5A4F9F,user_002,2026-11-17,09:24:08,1937,debit,auto-debit,Entertainment,Events,,,bank,2026-11-17 09:24:08
+TXN-67C97120D912,user_001,2026-11-17,09:26:11,929,debit,UPI,Shopping,Accessories,,,sms,2026-11-17 09:48:11
+TXN-95C3C7EF95EC,user_005,2026-11-17,10:00:09,2466,debit,card,Transportation,Metro,,,sms,2026-11-17 10:15:09
+TXN-EFD314BE308A,user_003,2026-11-17,10:00:43,1030,debit,card,Groceries,Online Grocery,Blinkit,,card,2026-11-17 10:00:43
+TXN-69D1105AF206,user_001,2026-11-17,12:30:02,188,debit,auto-debit,Shopping,Accessories,,,bank,2026-11-17 17:30:02
+TXN-81002E70EF5D,user_002,2026-11-17,17:32:16,664,debit,auto-debit,Transportation,Bus Pass,,,bank,2026-11-17 18:32:16
+TXN-8B53B7529D71,user_003,2026-11-17,19:16:41,1412,debit,netbanking,Shopping,Accessories,,,sms,2026-11-17 19:35:41
+TXN-3E41D98C5696,user_005,2026-11-17,20:42:30,902,debit,netbanking,Fitness & Wellness,Fitness & Wellness,,,email,2026-11-18 07:42:30
+TXN-C94905807D43,user_003,2026-11-17,21:40:22,2211,debit,UPI,Shopping,Accessories,,,bank,2026-11-18 03:40:22
+TXN-E77E8AF1DBB8,user_005,2026-11-17,21:56:31,2537,debit,UPI,Food & Dining,Street Food,,,sms,2026-11-17 22:11:31
+TXN-2D0CCBE3DE69,user_003,2026-11-18,07:38:08,208,debit,UPI,Food & Dining,Food Delivery,Swiggy,,bank,2026-11-18 10:38:08
+TXN-939C3A3374DA,user_003,2026-11-18,09:18:16,687,debit,card,Food & Dining,Food Delivery,Swiggy,,sms,2026-11-18 09:25:16
+TXN-3F76CEDBFB32,user_001,2026-11-18,09:42:40,83,debit,UPI,Groceries,Online Grocery,Zepto,,sms,2026-11-18 09:46:40
+TXN-793B5F0DF90B,user_002,2026-11-18,09:57:39,3465,debit,card,Shopping,Home Decor,,,card,2026-11-18 13:57:39
+TXN-89C7118AFB95,user_005,2026-11-18,12:42:11,795,debit,cash,Food & Dining,Restaurants,Local Restaurant,,cash,2026-11-19 10:42:11
+TXN-1502987F8589,user_005,2026-11-18,12:52:51,444,debit,card,Food & Dining,Food Delivery,Zomato,,sms,2026-11-18 13:20:51
+TXN-6249A715E6E7,user_003,2026-11-18,18:16:18,2358,debit,card,Transportation,Bus Pass,,,card,2026-11-18 21:16:18
+TXN-3A2D4FFBBCE9,user_003,2026-11-19,12:03:16,343,debit,UPI,Groceries,Supermarket,More Supermarket,,sms,2026-11-19 12:30:16
+TXN-7A2F288D1F65,user_002,2026-11-19,14:08:57,3161,debit,UPI,Transportation,Bus Pass,,,bank,2026-11-19 18:08:57
+TXN-B1489F84FB5B,user_001,2026-11-19,15:52:41,323,debit,UPI,Shopping,Accessories,,,sms,2026-11-19 15:58:41
+TXN-51F67E4FBA28,user_003,2026-11-19,18:42:49,1172,debit,cash,Food & Dining,Street Food,,,cash,2026-11-20 18:42:49
+TXN-1C947B5EB448,user_001,2026-11-19,19:04:45,499,debit,auto-debit,Subscriptions,Music,,,bank,2026-11-20 01:04:45
+TXN-A0B65113FB35,user_005,2026-11-19,20:34:18,1041,debit,card,Entertainment,Movies,,,sms,2026-11-19 20:56:18
+TXN-7765410DE56C,user_004,2026-11-19,22:02:30,40,debit,cash,Personal Care,Grooming,,,cash,2026-11-20 21:02:30
+TXN-EEBF24DD08A7,user_005,2026-11-19,23:35:07,2081,debit,cash,Sports,Sports,,,cash,2026-11-20 10:35:07
+TXN-DFC9A90E5878,user_002,2026-11-20,08:30:49,480,debit,cash,Transportation,Bus Pass,,,cash,2026-11-20 15:30:49
+TXN-D56CFB3483A3,user_003,2026-11-20,09:31:06,861,debit,auto-debit,Shopping,Home Decor,,,email,2026-11-20 19:31:06
+TXN-7626079FEE9C,user_002,2026-11-20,11:02:44,2218,debit,cash,Food & Dining,Street Food,,,cash,2026-11-21 03:02:44
+TXN-DF043BF55C58,user_001,2026-11-20,11:49:03,124,debit,card,Transportation,Metro,,,sms,2026-11-20 12:17:03
+TXN-39A7B3B59C39,user_002,2026-11-20,11:51:47,3314,debit,cash,Food & Dining,Street Food,,,cash,2026-11-21 11:51:47
+TXN-D73F5F77D38C,user_004,2026-11-20,14:05:35,1011,debit,UPI,Food & Dining,Street Food,,,sms,2026-11-20 14:30:35
+TXN-7BC35C48B95A,user_001,2026-11-20,21:32:25,139,debit,UPI,Food & Dining,Restaurants,Dominos,,sms,2026-11-20 21:59:25
+TXN-1E10B4E69E68,user_001,2026-11-20,21:47:28,304,debit,netbanking,Shopping,Accessories,,,email,2026-11-21 22:47:28
+TXN-31F58152E008,user_003,2026-11-21,06:36:46,1848,debit,UPI,Shopping,Online Shopping,Myntra,,bank,2026-11-21 08:36:46
+TXN-2690CB9FE234,user_005,2026-11-21,08:13:32,499,debit,auto-debit,Subscriptions,Cloud Storage,,,email,2026-11-21 11:13:32
+TXN-715E47626A0D,user_002,2026-11-21,11:09:27,1616,debit,card,Shopping,Online Shopping,Flipkart,,sms,2026-11-21 11:30:27
+TXN-D28534D2C812,user_002,2026-11-21,16:30:16,1772,debit,card,Food & Dining,Restaurants,Local Restaurant,,sms,2026-11-21 16:40:16
+TXN-B04BBE9B4845,user_002,2026-11-21,16:39:17,2275,debit,cash,Shopping,Accessories,,,cash,2026-11-22 13:39:17
+TXN-D85AB4AF17EB,user_002,2026-11-21,18:50:00,1135,debit,UPI,Food & Dining,Street Food,,,bank,2026-11-21 22:50:00
+TXN-78E6F618EB53,user_002,2026-11-21,19:28:50,3093,debit,card,Shopping,Home Decor,,,card,2026-11-21 20:28:50
+TXN-DE28DFB1A2BB,user_001,2026-11-21,19:46:27,802,debit,cash,Food & Dining,Street Food,,,cash,2026-11-21 21:46:27
+TXN-811AD95F8B62,user_005,2026-11-21,19:54:12,2676,debit,card,Shopping,Online Shopping,Meesho,,sms,2026-11-21 20:07:12
+TXN-178F1EA8F457,user_003,2026-11-21,21:42:24,2078,debit,card,Entertainment,Movies,,,card,2026-11-21 23:42:24
+TXN-AA994F47E772,user_001,2026-11-22,07:20:42,1167,debit,netbanking,Fitness & Wellness,Fitness & Wellness,,,sms,2026-11-22 07:30:42
+TXN-FE453524F8C7,user_002,2026-11-22,08:40:00,3360,debit,auto-debit,Shopping,Accessories,,,bank,2026-11-22 14:40:00
+TXN-53A93A2F9E17,user_002,2026-11-22,10:23:05,2011,debit,UPI,Food & Dining,Restaurants,Local Restaurant,,bank,2026-11-22 14:23:05
+TXN-E738CD5C7966,user_005,2026-11-22,14:04:05,1399,debit,cash,Entertainment,OTT Subscription,,,cash,2026-11-23 07:04:05
+TXN-9778B8F6B4C0,user_003,2026-11-22,14:25:54,2393,debit,UPI,Groceries,Vegetables & Fruits,,,sms,2026-11-22 14:49:54
+TXN-A1C453773DEC,user_004,2026-11-22,17:05:01,764,debit,netbanking,Personal Care,Salon,,,card,2026-11-22 20:05:01
+TXN-5D7D26EF9764,user_005,2026-11-22,20:10:53,1852,debit,card,Groceries,Online Grocery,Blinkit,,sms,2026-11-22 20:11:53
+TXN-4418EB043925,user_003,2026-11-23,06:41:05,1405,debit,netbanking,Food & Dining,Cafes,Chai Point,,email,2026-11-24 06:41:05
+TXN-FBAE2B7F12AF,user_001,2026-11-23,11:02:46,1565,debit,cash,Bills,Internet,,,cash,2026-11-23 22:02:46
+TXN-46CDA32D2F94,user_005,2026-11-23,13:03:53,788,debit,UPI,Food & Dining,Cafes,Starbucks,,bank,2026-11-23 18:03:53
+TXN-DADB74A38795,user_005,2026-11-23,18:00:43,697,debit,UPI,Food & Dining,Food Delivery,Zomato,,bank,2026-11-23 20:00:43
+TXN-8423D53FD5BD,user_002,2026-11-23,18:38:03,2594,debit,cash,Food & Dining,Street Food,,,cash,2026-11-24 18:38:03
+TXN-22D18E5D2DCA,user_003,2026-11-23,22:52:49,53,debit,cash,Entertainment,OTT Subscription,,,cash,2026-11-24 13:52:49

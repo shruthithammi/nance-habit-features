@@ -1,0 +1,73 @@
+budget_id,user_id,main_category,period_type,amount,from_date,to_date
+BDG-0001,user_001,ALL,monthly,30000,2026-08-01,2026-08-31
+BDG-0002,user_001,Food & Dining,monthly,6000,2026-08-01,2026-08-31
+BDG-0003,user_001,Shopping,monthly,4000,2026-08-01,2026-08-31
+BDG-0004,user_001,Entertainment,monthly,3000,2026-08-01,2026-08-31
+BDG-0005,user_001,Transportation,monthly,2000,2026-08-01,2026-08-31
+BDG-0006,user_001,ALL,monthly,30000,2026-09-01,2026-09-30
+BDG-0007,user_001,Food & Dining,monthly,6000,2026-09-01,2026-09-30
+BDG-0008,user_001,Shopping,monthly,4000,2026-09-01,2026-09-30
+BDG-0009,user_001,Entertainment,monthly,3000,2026-09-01,2026-09-30
+BDG-0010,user_001,Transportation,monthly,2000,2026-09-01,2026-09-30
+BDG-0011,user_001,ALL,monthly,30000,2026-10-01,2026-10-31
+BDG-0012,user_001,Food & Dining,monthly,6000,2026-10-01,2026-10-31
+BDG-0013,user_001,Shopping,monthly,4000,2026-10-01,2026-10-31
+BDG-0014,user_001,Entertainment,monthly,3000,2026-10-01,2026-10-31
+BDG-0015,user_001,Transportation,monthly,2000,2026-10-01,2026-10-31
+BDG-0016,user_001,ALL,monthly,30000,2026-11-01,2026-11-30
+BDG-0017,user_001,Food & Dining,monthly,6000,2026-11-01,2026-11-30
+BDG-0018,user_001,Shopping,monthly,4000,2026-11-01,2026-11-30
+BDG-0019,user_001,Entertainment,monthly,3000,2026-11-01,2026-11-30
+BDG-0020,user_001,Transportation,monthly,2000,2026-11-01,2026-11-30
+BDG-0021,user_002,ALL,monthly,25000,2026-08-01,2026-08-31
+BDG-0022,user_002,Food & Dining,monthly,5000,2026-08-01,2026-08-31
+BDG-0023,user_002,Shopping,monthly,5000,2026-08-01,2026-08-31
+BDG-0024,user_002,Entertainment,monthly,4000,2026-08-01,2026-08-31
+BDG-0025,user_002,ALL,monthly,25000,2026-09-01,2026-09-30
+BDG-0026,user_002,Food & Dining,monthly,5000,2026-09-01,2026-09-30
+BDG-0027,user_002,Shopping,monthly,5000,2026-09-01,2026-09-30
+BDG-0028,user_002,Entertainment,monthly,4000,2026-09-01,2026-09-30
+BDG-0029,user_002,ALL,monthly,25000,2026-10-01,2026-10-31
+BDG-0030,user_002,Food & Dining,monthly,5000,2026-10-01,2026-10-31
+BDG-0031,user_002,Shopping,monthly,5000,2026-10-01,2026-10-31
+BDG-0032,user_002,Entertainment,monthly,4000,2026-10-01,2026-10-31
+BDG-0033,user_002,ALL,monthly,25000,2026-11-01,2026-11-30
+BDG-0034,user_002,Food & Dining,monthly,5000,2026-11-01,2026-11-30
+BDG-0035,user_002,Shopping,monthly,5000,2026-11-01,2026-11-30
+BDG-0036,user_002,Entertainment,monthly,4000,2026-11-01,2026-11-30
+BDG-0037,user_003,ALL,monthly,22000,2026-08-01,2026-08-31
+BDG-0038,user_003,Food & Dining,monthly,5000,2026-08-01,2026-08-31
+BDG-0039,user_003,Groceries,monthly,4000,2026-08-01,2026-08-31
+BDG-0040,user_003,Shopping,monthly,3000,2026-08-01,2026-08-31
+BDG-0041,user_003,ALL,monthly,22000,2026-09-01,2026-09-30
+BDG-0042,user_003,Food & Dining,monthly,5000,2026-09-01,2026-09-30
+BDG-0043,user_003,Groceries,monthly,4000,2026-09-01,2026-09-30
+BDG-0044,user_003,Shopping,monthly,3000,2026-09-01,2026-09-30
+BDG-0045,user_003,ALL,monthly,22000,2026-10-01,2026-10-31
+BDG-0046,user_003,Food & Dining,monthly,5000,2026-10-01,2026-10-31
+BDG-0047,user_003,Groceries,monthly,4000,2026-10-01,2026-10-31
+BDG-0048,user_003,Shopping,monthly,3000,2026-10-01,2026-10-31
+BDG-0049,user_003,ALL,monthly,22000,2026-11-01,2026-11-30
+BDG-0050,user_003,Food & Dining,monthly,5000,2026-11-01,2026-11-30
+BDG-0051,user_003,Groceries,monthly,4000,2026-11-01,2026-11-30
+BDG-0052,user_003,Shopping,monthly,3000,2026-11-01,2026-11-30
+BDG-0053,user_005,ALL,monthly,35000,2026-08-01,2026-08-31
+BDG-0054,user_005,Food & Dining,monthly,7000,2026-08-01,2026-08-31
+BDG-0055,user_005,Entertainment,monthly,5000,2026-08-01,2026-08-31
+BDG-0056,user_005,Shopping,monthly,5000,2026-08-01,2026-08-31
+BDG-0057,user_005,Travel,monthly,5000,2026-08-01,2026-08-31
+BDG-0058,user_005,ALL,monthly,35000,2026-09-01,2026-09-30
+BDG-0059,user_005,Food & Dining,monthly,7000,2026-09-01,2026-09-30
+BDG-0060,user_005,Entertainment,monthly,5000,2026-09-01,2026-09-30
+BDG-0061,user_005,Shopping,monthly,5000,2026-09-01,2026-09-30
+BDG-0062,user_005,Travel,monthly,5000,2026-09-01,2026-09-30
+BDG-0063,user_005,ALL,monthly,35000,2026-10-01,2026-10-31
+BDG-0064,user_005,Food & Dining,monthly,7000,2026-10-01,2026-10-31
+BDG-0065,user_005,Entertainment,monthly,5000,2026-10-01,2026-10-31
+BDG-0066,user_005,Shopping,monthly,5000,2026-10-01,2026-10-31
+BDG-0067,user_005,Travel,monthly,5000,2026-10-01,2026-10-31
+BDG-0068,user_005,ALL,monthly,35000,2026-11-01,2026-11-30
+BDG-0069,user_005,Food & Dining,monthly,7000,2026-11-01,2026-11-30
+BDG-0070,user_005,Entertainment,monthly,5000,2026-11-01,2026-11-30
+BDG-0071,user_005,Shopping,monthly,5000,2026-11-01,2026-11-30
+BDG-0072,user_005,Travel,monthly,5000,2026-11-01,2026-11-30
